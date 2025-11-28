@@ -21,15 +21,10 @@ I'm CS student at St Mary's. I like to build apps and other system like that. I 
 
 **Frameworks & Libraries:**  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Design & Creative Tools:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -43,7 +38,7 @@ I'm CS student at St Mary's. I like to build apps and other system like that. I 
 ---
 
 ## 📊 GitHub Stats
-![Yeabsira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&hide_border=true&theme=react)
+![AaUel-Knight's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&hide_border=true&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AaUel-Knight27&theme=react)
 
