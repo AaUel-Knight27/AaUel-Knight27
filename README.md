@@ -6,14 +6,18 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a **Computer Science student** at **St. Mary’s University** with strong experience in:
+I'm a **Computer Science student at St. Mary’s University** with a strong passion for building secure, efficient, and scalable systems.
 
-- **Backend development**
-- **Cybersecurity** (INSA Summer Camp Certified)
-- **Linux systems**
-- **App & System Building**
+I specialize in:
 
-I have **2 years of cybersecurity internship experience**, and I enjoy building clean, scalable backend systems while exploring security and DevOps tools.
+- **Backend Development** (Django · Flask · REST APIs)  
+- **Linux Systems & Automation**  
+- **System Architecture & Performance Optimization**
+
+I enjoy solving complex problems, exploring system-level technologies, and building projects that combine **security**, **backend engineering**, and **modern DevOps tools**.
+
+My mission is simple:  
+**Build clean, reliable software — and understand the systems that make it secure.**
 
 ---
 
