@@ -1,8 +1,5 @@
 # Abel Alemayehu 👋
 
-**Co-Founder of Adwa CTF**  
-🎨 Graphics & UI/UX Designer | 💻 Frontend Developer | 🎬 Video Editor  
-
 ---
 
 ## 🧑‍💻 About Me
