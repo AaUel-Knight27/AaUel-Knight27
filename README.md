@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hello+World+I'm+Abel+Alemayehu+👋;Cybersecurity+Enthusiast+|+Backend+Developer;CS+Student+at+St+Mary's+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hello+World+I'm+Abel+Alemayehu+👋;Cybersecurity+Enthusiast+|+Backend+Developer;CS+Student" alt="Typing SVG" />
 </p>
 
 ---
