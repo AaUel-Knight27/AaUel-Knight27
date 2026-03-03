@@ -30,7 +30,7 @@ My mission is simple:
 
 ### **Web, Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=django,flask,html,css, spring-boot" height="45" />
 </p>
 
 ### **Cybersecurity & OS**
