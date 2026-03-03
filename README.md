@@ -28,11 +28,7 @@ My mission is simple:
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" height="45" />
 </p>
 
-### **Web, Backend & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,html,css, spring-boot" height="45" />
-</p>
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,html,css,spring-boot" height="45" /> </p>
 ### **Cybersecurity & OS**
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash" height="45" />
