@@ -1,87 +1,127 @@
-<!-- ██████╗  ██████╗ ██████╗ ███████╗  █████╗ ██╗ -->
-<!-- ██╔══██╗██╔═══██╗██╔══██╗██╔════╝ ██╔══██╗██║ -->
-<!-- ██████╔╝██║   ██║██████╔╝█████╗   ███████║██║ -->
-<!-- ██╔═══╝ ██║   ██║██╔══██╗██╔══╝   ██╔══██║██║ -->
-<!-- ██║     ╚██████╔╝██║  ██║███████╗ ██║  ██║██║ -->
-<!-- ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝ -->
+<!-- ========================================================= -->
+<!--  ███████╗██╗███╗   ██╗ ██████╗ ██╗   ██╗██╗      █████╗  -->
+<!--  ██╔════╝██║████╗  ██║██╔════╝ ██║   ██║██║     ██╔══██╗ -->
+<!--  ███████╗██║██╔██╗ ██║██║  ███╗██║   ██║██║     ███████║ -->
+<!--  ╚════██║██║██║╚██╗██║██║   ██║██║   ██║██║     ██╔══██║ -->
+<!--  ███████║██║██║ ╚████║╚██████╔╝╚██████╔╝███████╗██║  ██║ -->
+<!--  ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=BOOTING+SYSTEM...;Identity:+Abel+Alemayehu;Role:+Backend+Architect;Mode:+Cybersecurity+Operative;Status:+Building+The+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=INITIALIZING+COGNITIVE+CORE...;ENTITY:+ABEL+ALEMAYEHU;ROLE:+SYSTEMS+ARCHITECT;CLEARANCE:+ROOT;STATUS:+TRANSCENDING" />
 </p>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+# ⌬ EXECUTIVE SYSTEM PROFILE
 
 ```yaml
-NAME: Abel Alemayehu
-CLASS: Computer Science Student
-INSTITUTION: St. Mary’s University
-SPECIALIZATION: Secure Backend Systems
-MISSION: Architect scalable, intelligent infrastructure
-STATUS: ONLINE
+IDENTITY: Abel Alemayehu
+CLASSIFICATION: Senior Systems Architect
+DOMAIN: Backend Intelligence Infrastructure
+SPECIALTY: Secure Distributed Systems
+ACCESS LEVEL: Root
+THREAT MODEL: Everything
 ```
 
-I engineer **high-integrity backend systems** and explore the deep layers of computing —  
-where **security**, **performance**, and **architecture** converge.
+I architect backend systems as if they will be attacked.  
+Because they will.
 
-I don’t just write code.  
-I design systems that survive scale, stress, and attack.
+I design infrastructure assuming scale is inevitable.  
+Because it is.
 
----
+I operate at the intersection of:
 
-# ⚙️ CORE COMPETENCIES
+- Distributed system design
+- Secure architecture
+- Kernel-level thinking
+- High-performance backend engineering
+- DevOps automation at scale
 
-## 🛰 Backend Engineering Protocols
-- Django · Flask · REST APIs  
-- System Design & Scalable Architecture  
-- Performance Optimization  
-
-## 🔐 Cybersecurity Operations
-- Linux Systems
-- Shell Automation
-- Secure Deployment Practices
-- Threat-aware Backend Design  
-
-## 🧬 DevOps Integration
-- Containerization (Docker)
-- Orchestration (Kubernetes)
-- Reverse Proxies (NGINX)
-- CI/CD Workflows
-- Git Version Control
+This is not application development.  
+This is **infrastructure engineering**.
 
 ---
 
-# 🧪 PROGRAMMING MATRIX
+# ⌬ ARCHITECTURE PHILOSOPHY
 
-```text
-C        █████████░░
-C++      █████████░░
-Python   ███████████
-Java     ████████░░░
-JavaScript ████████░░
-```
+> Systems fail at their weakest abstraction.  
+> Security fails at its first assumption.  
+> Performance fails where engineers stop thinking.
 
-Framework Stack:
-- Django
-- Flask
-- Spring Boot
+I build systems that:
+
+- Survive horizontal scale
+- Degrade gracefully under load
+- Remain deterministic under stress
+- Assume hostile environments
+- Eliminate unnecessary complexity
+
+Clean architecture is not aesthetic.  
+It is survival.
 
 ---
 
-# 🖥 OPERATING ENVIRONMENT
+# ⌬ CORE ENGINEERING DOMAINS
+
+## ⌁ Backend Systems Engineering
+- Distributed APIs
+- Stateless service architecture
+- Event-driven patterns
+- Concurrency & performance tuning
+- Memory-aware design
+
+## ⌁ Security-Centric Design
+- Threat modeling at architecture level
+- Secure deployment pipelines
+- Linux hardening
+- Process isolation
+- Principle-of-least-privilege systems
+
+## ⌁ Infrastructure & Orchestration
+- Container-native systems
+- Reverse proxy & traffic control
+- CI/CD automation
+- Infrastructure as logic
+
+---
+
+# ⌬ OPERATING ENVIRONMENT
 
 ```bash
-$ uname -a
-Linux Kernel | Automation | Performance Tuning
+$ whoami
+architect
+
+$ uname -r
+custom-hardened-kernel
+
+$ uptime
+mission-continuous
 ```
 
-I operate comfortably in terminal-first environments.  
-The command line is not a tool — it's home.
+Terminal-native.  
+Automation-first.  
+Observability-driven.
+
+If it can be automated — it will be.  
+If it cannot be monitored — it does not ship.
 
 ---
 
-# 📊 SYSTEM TELEMETRY
+# ⌬ ENGINEERING STACK
+
+### Languages
+C · C++ · Python · Java · JavaScript  
+
+### Frameworks
+Django · Flask · Spring Boot  
+
+### Systems
+Linux · Bash · Docker · Kubernetes · NGINX · Git  
+
+---
+
+# ⌬ SYSTEM TELEMETRY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
@@ -90,34 +130,29 @@ The command line is not a tool — it's home.
 
 ---
 
-# 🤖 PHILOSOPHY
+# ⌬ CURRENT OPERATIONS
 
-> “Code is logic weaponized.  
-> Architecture is intelligence crystallized.  
-> Security is non-negotiable.”
-
----
-
-# 🌌 CURRENT OBJECTIVE
-
-- Master distributed systems  
-- Deepen cybersecurity expertise  
-- Engineer production-grade backend infrastructures  
-- Build systems that are resilient by design  
+- Refining distributed backend architecture
+- Deepening kernel and systems knowledge
+- Advancing security-first engineering
+- Designing systems that scale beyond expectation
 
 ---
 
-# 📡 CONNECT TO NODE
+# ⌬ TRANSMISSION CHANNEL
 
 ```bash
-> establishing secure connection...
-> handshake successful.
+> secure-handshake --protocol quantum
+> authentication: successful
+> channel: encrypted
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-AaUel--Knight27-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AaUel-Knight27)
+[ GitHub Node: AaUel-Knight27 ]
 
 ---
 
 <p align="center">
-  ⚡ Powered by Curiosity | Secured by Design | Built for the Future ⚡
+  ◈ Infrastructure is destiny. ◈  
+  ◈ Security is non-negotiable. ◈  
+  ◈ Elegance is engineered. ◈  
 </p>
