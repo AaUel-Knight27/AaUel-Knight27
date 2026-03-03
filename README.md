@@ -1,69 +1,123 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hello+World+I'm+Abel+Alemayehu+👋;Cybersecurity+Enthusiast+|+Backend+Developer;CS+Student" alt="Typing SVG" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-I'm a **Computer Science student at St. Mary’s University** with a strong passion for building secure, efficient, and scalable systems.
-
-I specialize in:
-
-- **Backend Development** (Django · Flask · REST APIs)  
-- **Linux Systems & Automation**  
-- **System Architecture & Performance Optimization**
-
-I enjoy solving complex problems, exploring system-level technologies, and building projects that combine **security**, **backend engineering**, and **modern DevOps tools**.
-
-My mission is simple:  
-**Build clean, reliable software — and understand the systems that make it secure.**
-
----
-
-# 🚀 Tech Stack
-
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" height="45" />
-</p>
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,html,css,spring-boot" height="45" /> </p>
-### **Cybersecurity & OS**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" height="45" />
-</p>
-
-### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github" height="45" />
-</p>
-
-### **UI / Creative**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="45" />
-</p>
-
----
-
-# 📊 GitHub Analytics
+<!-- ██████╗  ██████╗ ██████╗ ███████╗  █████╗ ██╗ -->
+<!-- ██╔══██╗██╔═══██╗██╔══██╗██╔════╝ ██╔══██╗██║ -->
+<!-- ██████╔╝██║   ██║██████╔╝█████╗   ███████║██║ -->
+<!-- ██╔═══╝ ██║   ██║██╔══██╗██╔══╝   ██╔══██║██║ -->
+<!-- ██║     ╚██████╔╝██║  ██║███████╗ ██║  ██║██║ -->
+<!-- ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝╚═╝ -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=react&hide_border=true&border_radius=12" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaUel-Knight27&theme=react&hide_border=true&border_radius=12" height="160" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=BOOTING+SYSTEM...;Identity:+Abel+Alemayehu;Role:+Backend+Architect;Mode:+Cybersecurity+Operative;Status:+Building+The+Future" />
 </p>
 
 ---
 
-# ✍️ Daily Quote
-> **“Design is intelligence made visible, and code is creativity made functional.”**
+# 🧠 SYSTEM PROFILE
+
+```yaml
+NAME: Abel Alemayehu
+CLASS: Computer Science Student
+INSTITUTION: St. Mary’s University
+SPECIALIZATION: Secure Backend Systems
+MISSION: Architect scalable, intelligent infrastructure
+STATUS: ONLINE
+```
+
+I engineer **high-integrity backend systems** and explore the deep layers of computing —  
+where **security**, **performance**, and **architecture** converge.
+
+I don’t just write code.  
+I design systems that survive scale, stress, and attack.
 
 ---
 
-# 📫 Contact  
-Feel free to connect with me or explore more of my work:
+# ⚙️ CORE COMPETENCIES
 
-[![GitHub](https://img.shields.io/badge/GitHub-AaUel--Knight27-181717?style=for-the-badge&logo=github)](https://github.com/AaUel-Knight27)
+## 🛰 Backend Engineering Protocols
+- Django · Flask · REST APIs  
+- System Design & Scalable Architecture  
+- Performance Optimization  
+
+## 🔐 Cybersecurity Operations
+- Linux Systems
+- Shell Automation
+- Secure Deployment Practices
+- Threat-aware Backend Design  
+
+## 🧬 DevOps Integration
+- Containerization (Docker)
+- Orchestration (Kubernetes)
+- Reverse Proxies (NGINX)
+- CI/CD Workflows
+- Git Version Control
 
 ---
 
+# 🧪 PROGRAMMING MATRIX
+
+```text
+C        █████████░░
+C++      █████████░░
+Python   ███████████
+Java     ████████░░░
+JavaScript ████████░░
+```
+
+Framework Stack:
+- Django
+- Flask
+- Spring Boot
+
+---
+
+# 🖥 OPERATING ENVIRONMENT
+
+```bash
+$ uname -a
+Linux Kernel | Automation | Performance Tuning
+```
+
+I operate comfortably in terminal-first environments.  
+The command line is not a tool — it's home.
+
+---
+
+# 📊 SYSTEM TELEMETRY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaUel-Knight27&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+</p>
+
+---
+
+# 🤖 PHILOSOPHY
+
+> “Code is logic weaponized.  
+> Architecture is intelligence crystallized.  
+> Security is non-negotiable.”
+
+---
+
+# 🌌 CURRENT OBJECTIVE
+
+- Master distributed systems  
+- Deepen cybersecurity expertise  
+- Engineer production-grade backend infrastructures  
+- Build systems that are resilient by design  
+
+---
+
+# 📡 CONNECT TO NODE
+
+```bash
+> establishing secure connection...
+> handshake successful.
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-AaUel--Knight27-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AaUel-Knight27)
+
+---
+
+<p align="center">
+  ⚡ Powered by Curiosity | Secured by Design | Built for the Future ⚡
+</p>
