@@ -55,7 +55,7 @@ It **forges neural fortresses** — systems engineered to think, adapt, and endu
 ## Execution Matrix
 ```text
 Python        ████████████  (Neural core language)
-Rust          █████████░    (Memory fortress layer)
+Java          █████████░    (Android app and Backend)
 Go            ████████░░    (Concurrency warp drive)
 TypeScript    ███████░░░    (Interface hologram layer)
 C++           ██████░░░░    (Low-latency quantum bridge)
