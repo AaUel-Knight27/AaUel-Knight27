@@ -1,9 +1,9 @@
  (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/README.md b/README.md
-index 6e7042a803ab2738fe86db24d9b22ec3b50edff0..bd5766068a76b02b5e97b22ada389ecfe80b2abb 100644
+index 6e7042a803ab2738fe86db24d9b22ec3b50edff0..d601564bed1fe9e8d8e08cda7d6d927f3f439216 100644
 --- a/README.md
 +++ b/README.md
-@@ -1,70 +1,74 @@
+@@ -1,70 +1,71 @@
 -<!-- ██████╗ ██████╗ ██████╗ ███████╗ █████╗ ██╗ --> 
 -<!-- ██╔══██╗██╔═══██╗██╔══██╗██╔════╝ ██╔══██╗██║ --> 
 -<!-- ██████╔╝██║ ██║██████╔╝█████╗ ███████║██║ --> 
@@ -15,16 +15,16 @@ index 6e7042a803ab2738fe86db24d9b22ec3b50edff0..bd5766068a76b02b5e97b22ada389ecf
 -  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&lines=NEURAL+NODE+INITIALIZING...;DESIGNATION:+AaUel-Knight;PROTOCOL:+Quantum+Backend+Architect;ERA:+2099+Neural+Net;STATUS:+SINGULARITY+APPROACHING" />
 +<div align="center">
 +
-+# AaUel-Knight
++# Hi, I'm AaUel-Knight 👋
 +
-+### Backend Engineer • Secure Systems • Scalable APIs
++**Backend Engineer** focused on secure APIs, distributed systems, and production reliability.
 +
-+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Building+reliable+backend+systems;Designing+secure+APIs+for+real-world+scale;Keeping+architecture+simple%2C+observable%2C+and+fast" alt="Typing intro" />
++<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Designing+secure+backend+platforms;Building+scalable+APIs+for+real+traffic;Keeping+systems+observable%2C+resilient%2C+and+maintainable" alt="typing animation" />
 +
 +<p>
-+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-111827?style=for-the-badge&logo=serverless&logoColor=93C5FD&labelColor=0B1220" alt="Focus badge" />
-+  <img src="https://img.shields.io/badge/Security-Zero%20Trust-111827?style=for-the-badge&logo=shield&logoColor=A7F3D0&labelColor=0B1220" alt="Security badge" />
-+  <img src="https://img.shields.io/badge/Cloud-Distributed%20Systems-111827?style=for-the-badge&logo=icloud&logoColor=C4B5FD&labelColor=0B1220" alt="Cloud badge" />
++  <img src="https://img.shields.io/badge/Backend-Engineering-111827?style=for-the-badge&logo=fastapi&logoColor=93C5FD&labelColor=0B1220" alt="Backend" />
++  <img src="https://img.shields.io/badge/Security-Zero%20Trust-111827?style=for-the-badge&logo=vercel&logoColor=A7F3D0&labelColor=0B1220" alt="Security" />
++  <img src="https://img.shields.io/badge/Infra-Cloud%20%26%20Containers-111827?style=for-the-badge&logo=docker&logoColor=C4B5FD&labelColor=0B1220" alt="Infra" />
  </p>
  
 -<div align="center">
@@ -36,44 +36,57 @@ index 6e7042a803ab2738fe86db24d9b22ec3b50edff0..bd5766068a76b02b5e97b22ada389ecf
  
 -# NEURAL CORE DIRECTIVE
 +## About
-+I design and build backend platforms that are:
-+- **Reliable** under high traffic
-+- **Secure** by default
-+- **Observable** in production
-+- **Simple** to maintain over time
++I build backend systems that are:
++- **Secure by default**
++- **Fast under load**
++- **Observable in production**
++- **Simple to evolve**
 +
-+I enjoy turning complex infrastructure problems into clean, production-ready systems.
++I care about practical architecture, clean service boundaries, and stable delivery pipelines.
 +
 +---
 +
-+## Tech Stack
-+
++## Core Stack
+ 
+-**Designation:** AaUel-Knight  
+-**Core Function:** Architect hyper-resilient, quantum-aware backend matrices  
+-**Temporal Vector:** 2099 neural epoch  
+-**Operational Mode:** Threat-nullifying + Scale-infinite infrastructure synthesis
 +### Languages
 +![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15)
 +![Go](https://img.shields.io/badge/Go-0F172A?style=flat-square&logo=go&logoColor=67E8F9)
 +![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=FCA5A5)
 +![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=93C5FD)
  
--**Designation:** AaUel-Knight  
--**Core Function:** Architect hyper-resilient, quantum-aware backend matrices  
--**Temporal Vector:** 2099 neural epoch  
--**Operational Mode:** Threat-nullifying + Scale-infinite infrastructure synthesis
-+### Backend & Infrastructure
+-This node does not merely execute instructions.  
+-It **forges neural fortresses** — systems engineered to think, adapt, and endure under orbital-scale traffic, quantum decryption assaults, and cascade failures across zero-gravity datacenters.
++### Backend & Data
 +![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=5EEAD4)
 +![Spring](https://img.shields.io/badge/Spring-111827?style=flat-square&logo=spring&logoColor=86EFAC)
 +![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=86EFAC)
-+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=93C5FD)
-+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=93C5FD)
 +![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=C4B5FD)
 +![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=FCA5A5)
- 
--This node does not merely execute instructions.  
--It **forges neural fortresses** — systems engineered to think, adapt, and endure under orbital-scale traffic, quantum decryption assaults, and cascade failures across zero-gravity datacenters.
-+### Architecture Patterns
-+- REST / GraphQL / gRPC APIs
-+- Event-driven services
-+- Caching + async processing
-+- CI/CD automation and quality gates
++
++### Infrastructure & Delivery
++![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=93C5FD)
++![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=93C5FD)
++![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=BFDBFE)
++
++---
++
++## Engineering Focus
++- API design (REST, GraphQL, gRPC)
++- Event-driven and asynchronous workflows
++- Authentication, authorization, and service hardening
++- Performance tuning, monitoring, and incident readiness
++
++---
++
++## GitHub Activity
++<div align="center">
++  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=CBD5E1&icon_color=93C5FD&text_color=94A3B8" alt="GitHub stats" />
++  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AaUel-Knight27&theme=tokyonight&hide_border=true&background=0B1220&stroke=334155&ring=93C5FD&fire=93C5FD&currStreakNum=CBD5E1&sideNums=94A3B8" alt="GitHub streak" />
++</div>
  
  ---
  
@@ -117,26 +130,10 @@ index 6e7042a803ab2738fe86db24d9b22ec3b50edff0..bd5766068a76b02b5e97b22ada389ecf
 -
 -** NEURAL UPLINK NODE **
 -<img src="https://img.shields.io/badge/NEURAL%20UPLINK-AaUel--Knight27-00FFFF?style=for-the-badge&#x26;logo=neural&#x26;logoColor=000000&#x26;labelColor=0d1117" alt="NEURAL UPLINK">
-+## GitHub Snapshot
-+
-+<div align="center">
-+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=CBD5E1&icon_color=93C5FD&text_color=94A3B8" alt="GitHub stats" />
-+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AaUel-Knight27&theme=tokyonight&hide_border=true&background=0B1220&stroke=334155&ring=93C5FD&fire=93C5FD&currStreakNum=CBD5E1&sideNums=94A3B8" alt="GitHub streak" />
-+</div>
-+
-+---
-+
-+## What I’m Working On
-+- Scalable backend APIs
-+- Production monitoring and performance tuning
-+- Secure auth and access-control workflows
-+
-+---
-+
 +## Contact
 +- GitHub: [@AaUel-Knight27](https://github.com/AaUel-Knight27)
 +
-+> “Build systems that stay calm when everything else is noisy.”
++> Build calm systems for noisy production environments.
  
 EOF
 )
