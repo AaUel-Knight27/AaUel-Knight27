@@ -1,182 +1,124 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg" width="128" height="128" style="border-radius: 50%; border: 4px solid #1f6feb;" alt="AaUel Knight">
+  
+  <h1>@AaUel-Knight27</h1>
+  
+  <p>
+    <em>▶ building things. solving problems. one commit at a time.</em>
+  </p>
 
-```
- █████╗  █████╗ ██╗   ██╗███████╗██╗      ██╗  ██╗███╗  ██╗██╗ ██████╗ ██╗  ██╗████████╗██████╗ ███████╗
-██╔══██╗██╔══██╗██║   ██║██╔════╝██║      ██║ ██╔╝████╗ ██║██║██╔════╝ ██║  ██║╚══██╔══╝╚════██╗╚════██║
-███████║███████║██║   ██║█████╗  ██║█████╗█████╔╝ ██╔██╗██║██║██║  ███╗███████║   ██║    █████╔╝    ██╔╝
-██╔══██║██╔══██║██║   ██║██╔══╝  ██║╚════╝██╔═██╗ ██║╚████║██║██║   ██║██╔══██║   ██║   ██╔═══╝    ██╔╝ 
-██║  ██║██║  ██║╚██████╔╝███████╗███████╗ ██║  ██╗██║ ╚███║██║╚██████╔╝██║  ██║   ██║   ███████╗   ██║  
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝   ╚═╝  
-```
-
+  <p>
+    <img src="https://img.shields.io/badge/Student-3fb950?style=for-the-badge&logo=book&logoColor=white" alt="Student">
+    <img src="https://img.shields.io/badge/Dev%20%40%20INSA-58a6ff?style=for-the-badge&logo=java&logoColor=white" alt="INSA">
+    <img src="https://img.shields.io/badge/Freelancer-e3b341?style=for-the-badge&logo=briefcase&logoColor=black" alt="Freelancer">
+    <img src="https://img.shields.io/badge/Open%20Source-d2a8ff?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source">
+    <img src="https://img.shields.io/badge/AI%20Builder-ff7b72?style=for-the-badge&logo=brain&logoColor=white" alt="AI Builder">
+  </p>
 </div>
 
 ---
 
-<div align="center">
-
-```bash
-~/github-profile $ whoami
-> @AaUel-Knight27
-
-~/github-profile $ cat about.txt
-> building things. solving problems. one commit at a time.
-```
-
-![Student](https://img.shields.io/badge/-Student-0d1117?style=flat-square&logo=academia&logoColor=58a6ff&labelColor=161b22&color=1f6feb)
-![INSA](https://img.shields.io/badge/-INSA-0d1117?style=flat-square&logo=shield&logoColor=3fb950&labelColor=161b22&color=238636)
-![Freelancer](https://img.shields.io/badge/-Freelancer-0d1117?style=flat-square&logo=upwork&logoColor=e3b341&labelColor=161b22&color=9e6a03)
-![Open Source](https://img.shields.io/badge/-Open%20Source-0d1117?style=flat-square&logo=github&logoColor=d2a8ff&labelColor=161b22&color=6e40c9)
-
-</div>
-
----
-
-## `// who i am`
+### 👨‍💻 Who I Am
 
 ```python
 class AaUel_Knight27:
-    role       = ["Student", "Developer @ INSA", "Freelancer"]
-    focus      = ["building things", "solving problems"]
-    based_in   = "Ethiopia"
-    org        = "Information Network Security Administration (INSA)"
+    role      = ["Student", "Developer @ INSA", "Freelancer"]
+    focus     = ["building things", "solving problems"]
 
-    stack = {
-        "systems":  ["C", "C++", "C#", "Go", "Bash"],
-        "backend":  ["Python", "Django", "Java", "Spring Boot", "Kotlin"],
-        "frontend": ["React.js", "Next.js"],
-        "ai":       ["FastAPI", "LLMs", "agent pipelines"],
-    }
+    languages = ["Python", "Java", "Kotlin", "Go", "Bash", "C", "C++", "C#", "TypeScript", "Ruby", "SQL"]
+    frameworks= ["Django", "Spring Boot", "FastAPI", "Flask", "React.js", "Next.js", "Hibernate", "JPA"]
+    systems   = ["Linux", "Docker", "Git", "CI/CD", "REST", "GraphQL", "gRPC"]
+    ai        = ["LLMs", "RAG", "agent pipelines", "prompt engineering", "vector DBs"]
+    design    = ["Blender", "system architecture", "microservices", "clean arch", "MVC"]
+    databases = ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis", "FAISS"]
 
-    currently   = "shipping three projects simultaneously"
-    open_to     = ["collaborations", "freelance work", "interesting problems"]
+    open_to   = ["collaborations", "freelance work", "interesting problems"]
 ```
 
----
 
-## `// projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 ITAS LMS
-> Learning Management System built for ITAS users — Spring Boot powered, institution-grade.
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-161b22?style=flat-square&logo=springboot&logoColor=3fb950)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=58a6ff)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ Knights-Agent
-> FastAPI-based AI agent app — harness and orchestrate multiple AIs without limitations.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=3fb950)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=e3b341)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔨 SpringForge
-> Java + Python + Bash toolkit that supercharges Spring Boot development workflows.
-
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=e3b341)
-![Bash](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=d2a8ff)
-
-</td>
-<td width="50%" valign="top">
-
-### `> more coming...`
-> Currently in the dark building the next thing. Stay tuned.
-
-![WIP](https://img.shields.io/badge/status-in%20progress-9e6a03?style=flat-square&labelColor=161b22)
-
-</td>
-</tr>
-</table>
-
----
-
-## `// stack fluency`
-
-```
-Bash          ████████████████████░░  90%
-Django        ████████████████████░░  90%
-Spring Boot   ██████████████████░░░░  80%
-Kotlin        ██████████████████░░░░  80%
-C             ██████████████████░░░░  80%
-Python        █████████████████░░░░░  75%
-Java          ████████████████░░░░░░  70%
-C++           ████████████████░░░░░░  70%
-C#            ████████████████░░░░░░  70%
-React.js      ███████████████░░░░░░░  65%
-Next.js       ██████████████░░░░░░░░  60%
-Go            ██████████████░░░░░░░░  60%
-```
-
----
-
-## `// stats`
+### 🚀 Featured Projects
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=1f6feb" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaUel-Knight27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+**🔐 ITAS LMS**  
+Institution-grade Learning Management System for ITAS users. Robust, scalable, built to last.  
+`Spring Boot • Java • PostgreSQL`
+
+**⚔️ Knights-Agent**  
+FastAPI AI agent platform — harness and orchestrate multiple AIs without limitation.  
+`FastAPI • Python • LLMs`
+
+**🔨 SpringForge**  
+Java + Python + Bash toolkit that supercharges Spring Boot development from day one.  
+`Java • Python • Bash`
 
 </div>
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=AaUel-Knight27&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaUel-Knight27&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=3fb950&hide_border=true)
-
-</div>
+> More exciting projects in development...
 
 ---
 
-## `// currently learning`
+### 🔥 Stack Fluency
 
-```bash
-$ ls ./learning/
-  > AI agent architectures
-  > Distributed systems
-  > Cybersecurity (INSA)
-  > Go for systems programming
-```
+| Technology     | Proficiency     |
+|---------------|-----------------|
+| **Bash**      | █████████░ **90%** |
+| **Django**    | █████████░ **90%** |
+| **Kotlin**    | ████████░░ **85%** |
+| **Spring Boot**| ████████░░ **80%** |
+| **Docker**    | ████████░░ **80%** |
+| **C**         | ████████░░ **80%** |
+| **FastAPI**   | ███████░░░ **78%** |
+| **Python**    | ███████░░░ **75%** |
+| **Java**      | ███████░░░ **70%** |
+| **C++ / C#**  | ███████░░░ **70%** |
+| **React.js**  | ██████░░░░ **65%** |
+| **Next.js**   | ██████░░░░ **60%** |
 
 ---
 
-## `// reach me`
+### 🛠️ Tech Universe
+
+**Languages**  
+`Python` `Java` `Kotlin` `Go` `Bash` `C` `C++` `C#` `TypeScript` `JavaScript` `Ruby` `SQL`
+
+**Frameworks**  
+`Django` `Spring Boot` `FastAPI` `Flask` `React.js` `Next.js` `Hibernate` `JPA`
+
+**Tools & Systems**  
+`Docker` `Linux` `Git` `CI/CD` `REST` `GraphQL` `gRPC`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite` `FAISS`
+
+**AI & Architecture**  
+`LLMs` `RAG` `Agent Pipelines` `Prompt Engineering` `Microservices` `Clean Architecture` `System Design` `MVC` `DDD`
+
+---
+
+### 📊 Activity
+
+- **312** Commits  
+- **18** Repositories  
+- **47** Stars
+
+![GitHub Contribution Graph](https://github.com/AaUel-Knight27/AaUel-Knight27/blob/main/contribution.svg)
+
+---
+
+### 📫 Reach Me
 
 <div align="center">
 
-| platform | link |
-|---|---|
-| 𝕏 / Twitter | [@aethele87](https://x.com/aethele87) |
-| LinkedIn | [Abel Alemayehu](https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/) |
-| GitHub | [@AaUel-Knight27](https://github.com/AaUel-Knight27) |
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aethele87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaUel-Knight27)
 
 </div>
 
 ---
 
 <div align="center">
-
-```bash
-~/github-profile $ echo "thanks for visiting"
-> crafted in the dark  ·  building & problem solving  ·  @AaUel-Knight27
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=AaUel-Knight27&color=1f6feb&style=flat-square&label=profile+views)
-
+  <em>crafted in the dark • building & solving • @AaUel-Knight27</em>
 </div>
+```
