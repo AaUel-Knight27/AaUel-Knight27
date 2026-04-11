@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg" width="128" height="128" style="border-radius: 50%; border: 4px solid #1f6feb;" alt="AaUel Knight">
+  <img src="https://avatars.githubusercontent.com/AaUel-Knight27" width="128" height="128" style="border-radius: 50%; border: 4px solid #1f6feb;" alt="AaUel Knight">
   
   <h1>@AaUel-Knight27</h1>
   
