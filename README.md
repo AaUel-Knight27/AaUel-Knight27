@@ -22,17 +22,6 @@ class AaUel_Knight27:
     open_to    = ["collaborations", "freelance work", "interesting problems"]
 ```
 
-## Projects
-
-<p align="center">
-  <sub>Auto-syncs from your pinned repositories on GitHub.</sub>
-</p>
-
-<!-- PINNED_PROJECTS:START -->
-|  |  |
-| --- | --- |
-| [![Run the sync workflow](https://img.shields.io/badge/Run%20the%20sync%20workflow-0d1117?style=for-the-badge&logo=githubactions&logoColor=58a6ff&labelColor=0d1117&color=21262d)](https://github.com/AaUel-Knight27/AaUel-Knight27/actions) |  |
-<!-- PINNED_PROJECTS:END -->
 
 ## Stack Fluency
 
