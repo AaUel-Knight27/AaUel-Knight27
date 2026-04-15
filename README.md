@@ -35,17 +35,17 @@
 </div>
 
 <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:12px;">
-  <a href="#-who-i-am" style="text-decoration:none;">who i am</a>
+  <a href="#-who-i-am" style="text-decoration:none;color:#58a6ff;">who i am</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-projects" style="text-decoration:none;">projects</a>
+  <a href="#-projects" style="text-decoration:none;color:#58a6ff;">projects</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-stack-fluency" style="text-decoration:none;">stack</a>
+  <a href="#-stack-fluency" style="text-decoration:none;color:#58a6ff;">stack</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-tech-universe" style="text-decoration:none;">tech</a>
+  <a href="#-tech-universe" style="text-decoration:none;color:#58a6ff;">tech</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-activity" style="text-decoration:none;">activity</a>
+  <a href="#-activity" style="text-decoration:none;color:#58a6ff;">activity</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-reach-me" style="text-decoration:none;">reach me</a>
+  <a href="#-reach-me" style="text-decoration:none;color:#58a6ff;">reach me</a>
 </div>
 
 </div>
@@ -90,41 +90,31 @@
     <span style="display:inline-block;height:1px;background:#21262d;width:55%;vertical-align:middle;margin-left:10px;"></span>
   </div>
 
-  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:12px 12px;">
+  <!-- These cards pull live repo data (stars/forks/description) -->
+  <div style="color:#8b949e;font-size:12px;line-height:1.7;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    live cards powered by GitHub Readme Stats
+  </div>
+
+  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:10px 10px;">
     <tr>
-      <td valign="top" style="width:50%;border:1px solid rgba(35,134,54,.30);background:rgba(35,134,54,.07);border-radius:10px;padding:14px;">
-        <div style="font-size:20px;">🔐</div>
-        <div style="font-weight:800;color:#3fb950;margin-top:6px;">ITAS LMS</div>
-        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Institution-grade Learning Management System for ITAS users. Robust, scalable, built to last.</div>
-        <div style="margin-top:10px;">
-          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&labelColor=161b22&color=6db33f" />
-          <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat&labelColor=161b22&color=ed8b00" />
-          <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&labelColor=161b22&color=336791" />
-        </div>
+      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
+        <a href="https://github.com/AaUel-Knight27/ITAS-LMS">
+          <img alt="ITAS-LMS" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=ITAS-LMS&theme=github_dark&hide_border=true" />
+        </a>
       </td>
-      <td valign="top" style="width:50%;border:1px solid rgba(110,64,201,.30);background:rgba(110,64,201,.07);border-radius:10px;padding:14px;">
-        <div style="font-size:20px;">⚔️</div>
-        <div style="font-weight:800;color:#d2a8ff;margin-top:6px;">Knights-Agent</div>
-        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">FastAPI AI agent platform — harness and orchestrate multiple AIs without limitation.</div>
-        <div style="margin-top:10px;">
-          <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=161b22&color=009688" />
-          <img alt="Python" src="https://img.shields.io/badge/Python-f7d54a?style=flat&labelColor=161b22&color=f7d54a" />
-          <img alt="LLMs" src="https://img.shields.io/badge/LLMs-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
-        </div>
+      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
+        <a href="https://github.com/AaUel-Knight27/Knights-Agent">
+          <img alt="Knights-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=Knights-Agent&theme=github_dark&hide_border=true" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td valign="top" style="width:50%;border:1px solid rgba(31,111,235,.30);background:rgba(31,111,235,.07);border-radius:10px;padding:14px;">
-        <div style="font-size:20px;">🔨</div>
-        <div style="font-weight:800;color:#58a6ff;margin-top:6px;">SpringForge</div>
-        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Java + Python + Bash toolkit that supercharges Spring Boot development from day one.</div>
-        <div style="margin-top:10px;">
-          <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat&labelColor=161b22&color=ed8b00" />
-          <img alt="Python" src="https://img.shields.io/badge/Python-f7d54a?style=flat&labelColor=161b22&color=f7d54a" />
-          <img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25?style=flat&labelColor=161b22&color=4eaa25" />
-        </div>
+      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
+        <a href="https://github.com/AaUel-Knight27/SpringForge">
+          <img alt="SpringForge" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=SpringForge&theme=github_dark&hide_border=true" />
+        </a>
       </td>
-      <td valign="top" style="width:50%;border:1px dashed #21262d;background:#0d1117;border-radius:10px;padding:14px;opacity:.78;">
+      <td valign="top" style="width:50%;border:1px dashed #21262d;background:#0d1117;border-radius:12px;padding:14px;opacity:.80;">
         <div style="font-size:14px;color:#484f58;">&gt; _</div>
         <div style="font-weight:800;color:#484f58;margin-top:8px;">more coming...</div>
         <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Crafting the next thing in the dark. Stay tuned.</div>
@@ -348,17 +338,6 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/AaUel-Knight27?style=flat&label=followers&labelColor=161b22&color=1f6feb" />
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AaUel-Knight27&style=flat&color=238636&label=views" />
   </div>
-
-  <br/>
-
-  <div style="font-size:10px;color:#484f58;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">CONTRIBUTION GRAPH</div>
-
-  <!-- Option 1 (static chart, very reliable) -->
-  <img
-    alt="Contribution chart"
-    src="https://ghchart.rshah.org/238636/AaUel-Knight27"
-    style="max-width:100%;border:1px solid #21262d;border-radius:10px;background:#0d1117;padding:10px;"
-  />
 
   <br/><br/>
 
