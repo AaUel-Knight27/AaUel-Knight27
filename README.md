@@ -2,7 +2,7 @@
 
 <div style="max-width:820px;margin:0 auto;">
 
-<div style="border:1px solid #30363d;border-radius:14px;padding:20px 20px 18px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);box-shadow:0 0 0 1px rgba(48,54,61,.25) inset;">
+<div style="border:1px solid #30363d;border-radius:14px;padding:20px 20px 18px;background:#0d1117;">
 
 <div style="display:flex;gap:16px;align-items:center;justify-content:flex-start;">
   <!-- Option A (recommended): your GitHub avatar -->
@@ -58,7 +58,7 @@
 
 <!-- WHO I AM -->
 <a id="-who-i-am"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;WHO I AM
     <span style="display:inline-block;height:1px;background:#21262d;width:45%;vertical-align:middle;margin-left:10px;"></span>
@@ -82,7 +82,7 @@
 
 <!-- STACK FLUENCY -->
 <a id="-stack-fluency"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;STACK FLUENCY
     <span style="display:inline-block;height:1px;background:#21262d;width:50%;vertical-align:middle;margin-left:10px;"></span>
@@ -201,7 +201,7 @@
 
 <!-- TECH UNIVERSE -->
 <a id="-tech-universe"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;TECH UNIVERSE
     <span style="display:inline-block;height:1px;background:#21262d;width:47%;vertical-align:middle;margin-left:10px;"></span>
@@ -278,7 +278,7 @@
 
 <!-- ACTIVITY -->
 <a id="-activity"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;ACTIVITY
     <span style="display:inline-block;height:1px;background:#21262d;width:58%;vertical-align:middle;margin-left:10px;"></span>
@@ -332,7 +332,7 @@
 
 <!-- REACH ME -->
 <a id="-reach-me"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;REACH ME
     <span style="display:inline-block;height:1px;background:#21262d;width:56%;vertical-align:middle;margin-left:10px;"></span>
