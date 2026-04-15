@@ -1,5 +1,5 @@
 # AaUel-Knight27
-> `https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg`
+https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg
 
 <p align="center">
   <img src="./profile-assets/header.svg" alt="AaUel-Knight27 header" width="100%" />
@@ -101,11 +101,6 @@ class AaUel_Knight27:
 ## Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&include_all_commits=true&rank_icon=percentile&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_color=21262d"
-    alt="GitHub stats"
-    width="49%"
-  />
   <img
     src="https://streak-stats.demolab.com?user=AaUel-Knight27&background=0D1117&border=21262D&stroke=58A6FF&ring=3FB950&fire=E3B341&currStreakLabel=C9D1D9&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&sideLabels=8B949E"
     alt="GitHub streak"
