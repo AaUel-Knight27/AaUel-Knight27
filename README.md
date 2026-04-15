@@ -37,8 +37,6 @@
 <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:12px;">
   <a href="#-who-i-am" style="text-decoration:none;color:#58a6ff;">who i am</a>
   <span style="color:#30363d;">·</span>
-  <a href="#-projects" style="text-decoration:none;color:#58a6ff;">projects</a>
-  <span style="color:#30363d;">·</span>
   <a href="#-stack-fluency" style="text-decoration:none;color:#58a6ff;">stack</a>
   <span style="color:#30363d;">·</span>
   <a href="#-tech-universe" style="text-decoration:none;color:#58a6ff;">tech</a>
@@ -78,52 +76,6 @@
   databases  = ["PostgreSQL","MySQL","SQLite","MongoDB","Redis","FAISS"]
 
   open_to    = ["collaborations","freelance work","interesting problems"]</code></pre>
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-<a id="-projects"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
-  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-    <span style="color:#30363d">//</span>&nbsp;PROJECTS
-    <span style="display:inline-block;height:1px;background:#21262d;width:55%;vertical-align:middle;margin-left:10px;"></span>
-  </div>
-
-  <!-- These cards pull live repo data (stars/forks/description) -->
-  <div style="color:#8b949e;font-size:12px;line-height:1.7;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-    live cards powered by GitHub Readme Stats
-  </div>
-
-  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:10px 10px;">
-    <tr>
-      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
-        <a href="https://github.com/AaUel-Knight27/ITAS-LMS">
-          <img alt="ITAS-LMS" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=ITAS-LMS&theme=github_dark&hide_border=true" />
-        </a>
-      </td>
-      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
-        <a href="https://github.com/AaUel-Knight27/Knights-Agent">
-          <img alt="Knights-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=Knights-Agent&theme=github_dark&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" style="width:50%;background:#0d1117;border-radius:12px;">
-        <a href="https://github.com/AaUel-Knight27/SpringForge">
-          <img alt="SpringForge" src="https://github-readme-stats.vercel.app/api/pin/?username=AaUel-Knight27&repo=SpringForge&theme=github_dark&hide_border=true" />
-        </a>
-      </td>
-      <td valign="top" style="width:50%;border:1px dashed #21262d;background:#0d1117;border-radius:12px;padding:14px;opacity:.80;">
-        <div style="font-size:14px;color:#484f58;">&gt; _</div>
-        <div style="font-weight:800;color:#484f58;margin-top:8px;">more coming...</div>
-        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Crafting the next thing in the dark. Stay tuned.</div>
-        <div style="margin-top:10px;">
-          <img alt="in progress" src="https://img.shields.io/badge/in%20progress-30363d?style=flat&labelColor=161b22&color=30363d" />
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br/>
