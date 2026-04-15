@@ -96,104 +96,55 @@
     <span style="display:inline-flex;align-items:center;gap:6px;"><span style="width:8px;height:8px;border-radius:50%;background:#d2a8ff;display:inline-block;"></span>ai / design</span>
   </div>
 
-  <div style="display:grid;grid-template-columns:1fr;gap:8px;">
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Bash</span><span style="color:#ff7b72;font-weight:800;">90%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:90%;height:100%;background:#ff7b72;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Django</span><span style="color:#3fb950;font-weight:800;">90%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:90%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Kotlin</span><span style="color:#d2a8ff;font-weight:800;">85%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:85%;height:100%;background:#d2a8ff;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Spring Boot</span><span style="color:#3fb950;font-weight:800;">80%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Docker</span><span style="color:#e3b341;font-weight:800;">80%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#e3b341;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>C</span><span style="color:#ff7b72;font-weight:800;">80%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#ff7b72;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>FastAPI</span><span style="color:#3fb950;font-weight:800;">78%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:78%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Python</span><span style="color:#3fb950;font-weight:800;">75%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:75%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Flask</span><span style="color:#3fb950;font-weight:800;">74%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:74%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Java</span><span style="color:#3fb950;font-weight:800;">70%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#3fb950;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>C++</span><span style="color:#ff7b72;font-weight:800;">70%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>C#</span><span style="color:#ff7b72;font-weight:800;">70%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>React.js</span><span style="color:#58a6ff;font-weight:800;">65%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:65%;height:100%;background:#58a6ff;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Next.js</span><span style="color:#58a6ff;font-weight:800;">60%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:60%;height:100%;background:#58a6ff;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Go</span><span style="color:#f0883e;font-weight:800;">60%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:60%;height:100%;background:#f0883e;"></div></div>
-    </div>
-    <div>
-      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Blender</span><span style="color:#d2a8ff;font-weight:800;">55%</span>
-      </div>
-      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:55%;height:100%;background:#d2a8ff;"></div></div>
-    </div>
-  </div>
+  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:0 7px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <tr><td style="color:#c9d1d9;font-size:12px;">Bash</td><td align="right" style="color:#ff7b72;font-size:12px;font-weight:800;">90%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#ff7b72" width="90%" height="3"></td><td bgcolor="#21262d" width="10%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Django</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">90%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="90%" height="3"></td><td bgcolor="#21262d" width="10%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Kotlin</td><td align="right" style="color:#d2a8ff;font-size:12px;font-weight:800;">85%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#d2a8ff" width="85%" height="3"></td><td bgcolor="#21262d" width="15%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Spring Boot</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">80%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="80%" height="3"></td><td bgcolor="#21262d" width="20%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Docker</td><td align="right" style="color:#e3b341;font-size:12px;font-weight:800;">80%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#e3b341" width="80%" height="3"></td><td bgcolor="#21262d" width="20%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">C</td><td align="right" style="color:#ff7b72;font-size:12px;font-weight:800;">80%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#ff7b72" width="80%" height="3"></td><td bgcolor="#21262d" width="20%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">FastAPI</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">78%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="78%" height="3"></td><td bgcolor="#21262d" width="22%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Python</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">75%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="75%" height="3"></td><td bgcolor="#21262d" width="25%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Flask</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">74%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="74%" height="3"></td><td bgcolor="#21262d" width="26%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Java</td><td align="right" style="color:#3fb950;font-size:12px;font-weight:800;">70%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#3fb950" width="70%" height="3"></td><td bgcolor="#21262d" width="30%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">C++</td><td align="right" style="color:#ff7b72;font-size:12px;font-weight:800;">70%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#ff7b72" width="70%" height="3"></td><td bgcolor="#21262d" width="30%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">C#</td><td align="right" style="color:#ff7b72;font-size:12px;font-weight:800;">70%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#ff7b72" width="70%" height="3"></td><td bgcolor="#21262d" width="30%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">React.js</td><td align="right" style="color:#58a6ff;font-size:12px;font-weight:800;">65%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#58a6ff" width="65%" height="3"></td><td bgcolor="#21262d" width="35%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Next.js</td><td align="right" style="color:#58a6ff;font-size:12px;font-weight:800;">60%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#58a6ff" width="60%" height="3"></td><td bgcolor="#21262d" width="40%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Go</td><td align="right" style="color:#f0883e;font-size:12px;font-weight:800;">60%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#f0883e" width="60%" height="3"></td><td bgcolor="#21262d" width="40%"></td></tr></table></td></tr>
+
+    <tr><td style="color:#c9d1d9;font-size:12px;">Blender</td><td align="right" style="color:#d2a8ff;font-size:12px;font-weight:800;">55%</td></tr>
+    <tr><td colspan="2"><table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#d2a8ff" width="55%" height="3"></td><td bgcolor="#21262d" width="45%"></td></tr></table></td></tr>
+  </table>
 </div>
 
 <br/>
