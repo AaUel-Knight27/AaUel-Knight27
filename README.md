@@ -102,97 +102,97 @@
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Bash</span><span style="color:#ff7b72;font-weight:800;">90%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Django</span><span style="color:#3fb950;font-weight:800;">90%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Kotlin</span><span style="color:#d2a8ff;font-weight:800;">85%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:85%;height:100%;background:linear-gradient(90deg,#6e40c9,#d2a8ff);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:85%;height:100%;background:#d2a8ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Spring Boot</span><span style="color:#3fb950;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Docker</span><span style="color:#e3b341;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#9e6a03,#e3b341);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#e3b341;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C</span><span style="color:#ff7b72;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>FastAPI</span><span style="color:#3fb950;font-weight:800;">78%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:78%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:78%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Python</span><span style="color:#3fb950;font-weight:800;">75%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:75%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:75%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Flask</span><span style="color:#3fb950;font-weight:800;">74%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:74%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:74%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Java</span><span style="color:#3fb950;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C++</span><span style="color:#ff7b72;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C#</span><span style="color:#ff7b72;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>React.js</span><span style="color:#58a6ff;font-weight:800;">65%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:65%;height:100%;background:linear-gradient(90deg,#1f6feb,#58a6ff);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:65%;height:100%;background:#58a6ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Next.js</span><span style="color:#58a6ff;font-weight:800;">60%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:linear-gradient(90deg,#1f6feb,#58a6ff);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:#58a6ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Go</span><span style="color:#ff7b72;font-weight:800;">60%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Blender</span><span style="color:#d2a8ff;font-weight:800;">55%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:55%;height:100%;background:linear-gradient(90deg,#6e40c9,#d2a8ff);"></div></div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:55%;height:100%;background:#d2a8ff;"></div></div>
     </div>
   </div>
 </div>
@@ -286,43 +286,43 @@
 
   <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:10px 10px;">
     <tr>
-      <td style="width:33.33%;border:1px solid rgba(31,111,235,.25);background:rgba(31,111,235,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(31,111,235,.10) inset;">
+      <td bgcolor="#0b1f3a" style="width:33.33%;border:1px solid #1f6feb;border-radius:10px;padding:14px;text-align:center;">
         <div style="font-size:26px;font-weight:900;color:#58a6ff;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">312</div>
         <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">commits</div>
       </td>
-      <td style="width:33.33%;border:1px solid rgba(35,134,54,.25);background:rgba(35,134,54,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(35,134,54,.10) inset;">
+      <td bgcolor="#0b2416" style="width:33.33%;border:1px solid #238636;border-radius:10px;padding:14px;text-align:center;">
         <div style="font-size:26px;font-weight:900;color:#3fb950;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">18</div>
         <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">repos</div>
       </td>
-      <td style="width:33.33%;border:1px solid rgba(110,64,201,.25);background:rgba(110,64,201,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(110,64,201,.10) inset;">
+      <td bgcolor="#1b1230" style="width:33.33%;border:1px solid #6e40c9;border-radius:10px;padding:14px;text-align:center;">
         <div style="font-size:26px;font-weight:900;color:#d2a8ff;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">47</div>
         <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">stars</div>
       </td>
     </tr>
   </table>
 
-  <div style="margin-top:2px;border:1px solid #21262d;border-radius:10px;background:#0d1117;padding:12px;box-shadow:0 0 0 1px rgba(33,38,45,.25) inset;">
+  <div style="margin-top:2px;border:1px solid #21262d;border-radius:10px;background:#0d1117;padding:12px;">
     <table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:3px 3px;width:100%;">
       <tr>
-        <td style="width:10px;height:10px;background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#26a641"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#161b22"></td><td bgcolor="#0e4429"></td><td bgcolor="#26a641"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td>
       </tr>
       <tr>
-        <td style="width:10px;height:10px;background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+        <td width="10" height="10" bgcolor="#0e4429"></td><td bgcolor="#006d32"></td><td bgcolor="#161b22"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td><td bgcolor="#0e4429"></td><td bgcolor="#161b22"></td><td bgcolor="#006d32"></td><td bgcolor="#39d353"></td><td bgcolor="#26a641"></td>
       </tr>
     </table>
   </div>
