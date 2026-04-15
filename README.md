@@ -2,7 +2,7 @@
 
 <div style="max-width:820px;margin:0 auto;">
 
-<div style="border:1px solid #30363d;border-radius:14px;padding:20px 20px 18px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);">
+<div style="border:1px solid #30363d;border-radius:14px;padding:20px 20px 18px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);box-shadow:0 0 0 1px rgba(48,54,61,.25) inset;">
 
 <div style="display:flex;gap:16px;align-items:center;justify-content:flex-start;">
   <!-- Option A (recommended): your GitHub avatar -->
@@ -58,7 +58,7 @@
 
 <!-- WHO I AM -->
 <a id="-who-i-am"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;WHO I AM
     <span style="display:inline-block;height:1px;background:#21262d;width:45%;vertical-align:middle;margin-left:10px;"></span>
@@ -82,7 +82,7 @@
 
 <!-- STACK FLUENCY -->
 <a id="-stack-fluency"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;STACK FLUENCY
     <span style="display:inline-block;height:1px;background:#21262d;width:50%;vertical-align:middle;margin-left:10px;"></span>
@@ -201,7 +201,7 @@
 
 <!-- TECH UNIVERSE -->
 <a id="-tech-universe"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;TECH UNIVERSE
     <span style="display:inline-block;height:1px;background:#21262d;width:47%;vertical-align:middle;margin-left:10px;"></span>
@@ -278,33 +278,53 @@
 
 <!-- ACTIVITY -->
 <a id="-activity"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;ACTIVITY
     <span style="display:inline-block;height:1px;background:#21262d;width:58%;vertical-align:middle;margin-left:10px;"></span>
   </div>
 
-  <!-- Replaces JS counters with live widgets -->
-  <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-start;">
-    <img alt="Total stars" src="https://img.shields.io/github/stars/AaUel-Knight27?style=flat&label=stars&labelColor=161b22&color=6e40c9" />
-    <img alt="Followers" src="https://img.shields.io/github/followers/AaUel-Knight27?style=flat&label=followers&labelColor=161b22&color=1f6feb" />
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AaUel-Knight27&style=flat&color=238636&label=views" />
-  </div>
+  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:10px 10px;">
+    <tr>
+      <td style="width:33.33%;border:1px solid rgba(31,111,235,.25);background:rgba(31,111,235,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(31,111,235,.10) inset;">
+        <div style="font-size:26px;font-weight:900;color:#58a6ff;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">312</div>
+        <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">commits</div>
+      </td>
+      <td style="width:33.33%;border:1px solid rgba(35,134,54,.25);background:rgba(35,134,54,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(35,134,54,.10) inset;">
+        <div style="font-size:26px;font-weight:900;color:#3fb950;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">18</div>
+        <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">repos</div>
+      </td>
+      <td style="width:33.33%;border:1px solid rgba(110,64,201,.25);background:rgba(110,64,201,.08);border-radius:10px;padding:14px;text-align:center;box-shadow:0 0 0 1px rgba(110,64,201,.10) inset;">
+        <div style="font-size:26px;font-weight:900;color:#d2a8ff;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;line-height:1;">47</div>
+        <div style="margin-top:6px;font-size:10px;letter-spacing:1.6px;text-transform:uppercase;color:#8b949e;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">stars</div>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
-
-  <!-- Option 2 (GitHub Readme Stats) -->
-  <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:flex-start;">
-    <img
-      alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=github_dark&hide_border=true"
-      style="max-width:100%;"
-    />
-    <img
-      alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaUel-Knight27&layout=compact&theme=github_dark&hide_border=true"
-      style="max-width:100%;"
-    />
+  <div style="margin-top:2px;border:1px solid #21262d;border-radius:10px;background:#0d1117;padding:12px;box-shadow:0 0 0 1px rgba(33,38,45,.25) inset;">
+    <table cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:3px 3px;width:100%;">
+      <tr>
+        <td style="width:10px;height:10px;background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td>
+      </tr>
+      <tr>
+        <td style="width:10px;height:10px;background:#0e4429;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td><td style="background:#0e4429;border-radius:2px;"></td><td style="background:#161b22;border-radius:2px;"></td><td style="background:#006d32;border-radius:2px;"></td><td style="background:#39d353;border-radius:2px;"></td><td style="background:#26a641;border-radius:2px;"></td>
+      </tr>
+    </table>
   </div>
 </div>
 
@@ -312,7 +332,7 @@
 
 <!-- REACH ME -->
 <a id="-reach-me"></a>
-<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:linear-gradient(180deg,#0d1117 0%,#0b0f14 100%);box-shadow:0 0 0 1px rgba(33,38,45,.30) inset;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;REACH ME
     <span style="display:inline-block;height:1px;background:#21262d;width:56%;vertical-align:middle;margin-left:10px;"></span>
