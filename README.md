@@ -1,5 +1,5 @@
 # AaUel-Knight27
-https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg
+> `https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg`
 
 <p align="center">
   <img src="./profile-assets/header.svg" alt="AaUel-Knight27 header" width="100%" />
@@ -25,8 +25,14 @@ class AaUel_Knight27:
 ## Projects
 
 <p align="center">
-  <img src="./profile-assets/projects.svg" alt="Projects" width="100%" />
+  <sub>Auto-syncs from your pinned repositories on GitHub.</sub>
 </p>
+
+<!-- PINNED_PROJECTS:START -->
+|  |  |
+| --- | --- |
+| [![Run the sync workflow](https://img.shields.io/badge/Run%20the%20sync%20workflow-0d1117?style=for-the-badge&logo=githubactions&logoColor=58a6ff&labelColor=0d1117&color=21262d)](https://github.com/AaUel-Knight27/AaUel-Knight27/actions) |  |
+<!-- PINNED_PROJECTS:END -->
 
 ## Stack Fluency
 
@@ -123,10 +129,12 @@ class AaUel_Knight27:
 
 ## Reach Me
 
-<p align="center">
-  <img src="./profile-assets/contact.svg" alt="Reach me" width="100%" />
-</p>
+[![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=E6EDF3&labelColor=0D1117&color=30363D)](https://x.com/aethele87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117&color=1F6FEB)](https://github.com/AaUel-Knight27)
+
+[`@aethele87`](https://x.com/aethele87) | [`Abel Alemayehu`](https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/) | [`AaUel-Knight27`](https://github.com/AaUel-Knight27)
 
 <p align="center"><code>~/github-profile $ echo "thanks for stopping by"</code></p>
 
-<p align="center">crafted in the dark · building &amp; solving · @AaUel-Knight27</p>
+<p align="center">crafted in the dark | building &amp; solving | @AaUel-Knight27</p>
