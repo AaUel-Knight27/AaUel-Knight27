@@ -1,17 +1,8 @@
-<!--
-GitHub Profile README (hybrid MD + HTML)
-Converted from: AaUel_Knight27_v3_final.html
-
-Notes:
-- GitHub READMEs do not run JS and heavily restrict CSS, so this version uses inline HTML + images (shields/widgets).
-- Replace the photo URL if you want a custom photo instead of your GitHub avatar.
--->
-
 <div align="center">
 
 <div style="max-width:820px;margin:0 auto;">
 
-<div style="border:1px solid #30363d;border-radius:14px;padding:18px 18px 16px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);">
+<div style="border:1px solid #30363d;border-radius:14px;padding:20px 20px 18px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);">
 
 <div style="display:flex;gap:16px;align-items:center;justify-content:flex-start;">
   <!-- Option A (recommended): your GitHub avatar -->
@@ -43,6 +34,20 @@ Notes:
   <img alt="AI Builder" src="https://img.shields.io/badge/AI%20Builder-b91c1c?style=flat&labelColor=161b22&color=b91c1c" />
 </div>
 
+<div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;font-size:12px;">
+  <a href="#-who-i-am" style="text-decoration:none;">who i am</a>
+  <span style="color:#30363d;">·</span>
+  <a href="#-projects" style="text-decoration:none;">projects</a>
+  <span style="color:#30363d;">·</span>
+  <a href="#-stack-fluency" style="text-decoration:none;">stack</a>
+  <span style="color:#30363d;">·</span>
+  <a href="#-tech-universe" style="text-decoration:none;">tech</a>
+  <span style="color:#30363d;">·</span>
+  <a href="#-activity" style="text-decoration:none;">activity</a>
+  <span style="color:#30363d;">·</span>
+  <a href="#-reach-me" style="text-decoration:none;">reach me</a>
+</div>
+
 </div>
 
 </div>
@@ -54,6 +59,7 @@ Notes:
 <div align="center" style="max-width:820px;margin:0 auto;">
 
 <!-- WHO I AM -->
+<a id="-who-i-am"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;WHO I AM
@@ -77,15 +83,16 @@ Notes:
 <br/>
 
 <!-- PROJECTS -->
+<a id="-projects"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;PROJECTS
     <span style="display:inline-block;height:1px;background:#21262d;width:55%;vertical-align:middle;margin-left:10px;"></span>
   </div>
 
-  <table>
+  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:12px 12px;">
     <tr>
-      <td valign="top" style="border:1px solid rgba(35,134,54,.30);background:rgba(35,134,54,.07);border-radius:10px;padding:14px;">
+      <td valign="top" style="width:50%;border:1px solid rgba(35,134,54,.30);background:rgba(35,134,54,.07);border-radius:10px;padding:14px;">
         <div style="font-size:20px;">🔐</div>
         <div style="font-weight:800;color:#3fb950;margin-top:6px;">ITAS LMS</div>
         <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Institution-grade Learning Management System for ITAS users. Robust, scalable, built to last.</div>
@@ -95,8 +102,7 @@ Notes:
           <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&labelColor=161b22&color=336791" />
         </div>
       </td>
-      <td width="12"></td>
-      <td valign="top" style="border:1px solid rgba(110,64,201,.30);background:rgba(110,64,201,.07);border-radius:10px;padding:14px;">
+      <td valign="top" style="width:50%;border:1px solid rgba(110,64,201,.30);background:rgba(110,64,201,.07);border-radius:10px;padding:14px;">
         <div style="font-size:20px;">⚔️</div>
         <div style="font-weight:800;color:#d2a8ff;margin-top:6px;">Knights-Agent</div>
         <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">FastAPI AI agent platform — harness and orchestrate multiple AIs without limitation.</div>
@@ -107,9 +113,8 @@ Notes:
         </div>
       </td>
     </tr>
-    <tr><td height="12"></td><td></td><td></td></tr>
     <tr>
-      <td valign="top" style="border:1px solid rgba(31,111,235,.30);background:rgba(31,111,235,.07);border-radius:10px;padding:14px;">
+      <td valign="top" style="width:50%;border:1px solid rgba(31,111,235,.30);background:rgba(31,111,235,.07);border-radius:10px;padding:14px;">
         <div style="font-size:20px;">🔨</div>
         <div style="font-weight:800;color:#58a6ff;margin-top:6px;">SpringForge</div>
         <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Java + Python + Bash toolkit that supercharges Spring Boot development from day one.</div>
@@ -119,8 +124,7 @@ Notes:
           <img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25?style=flat&labelColor=161b22&color=4eaa25" />
         </div>
       </td>
-      <td width="12"></td>
-      <td valign="top" style="border:1px dashed #21262d;background:#0d1117;border-radius:10px;padding:14px;opacity:.75;">
+      <td valign="top" style="width:50%;border:1px dashed #21262d;background:#0d1117;border-radius:10px;padding:14px;opacity:.78;">
         <div style="font-size:14px;color:#484f58;">&gt; _</div>
         <div style="font-weight:800;color:#484f58;margin-top:8px;">more coming...</div>
         <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Crafting the next thing in the dark. Stay tuned.</div>
@@ -135,6 +139,7 @@ Notes:
 <br/>
 
 <!-- STACK FLUENCY -->
+<a id="-stack-fluency"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;STACK FLUENCY
@@ -253,6 +258,7 @@ Notes:
 <br/>
 
 <!-- TECH UNIVERSE -->
+<a id="-tech-universe"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;TECH UNIVERSE
@@ -329,6 +335,7 @@ Notes:
 <br/>
 
 <!-- ACTIVITY -->
+<a id="-activity"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;ACTIVITY
@@ -356,7 +363,7 @@ Notes:
   <br/><br/>
 
   <!-- Option 2 (GitHub Readme Stats) -->
-  <div style="display:flex;gap:12px;flex-wrap:wrap;">
+  <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:flex-start;">
     <img
       alt="GitHub stats"
       src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=github_dark&hide_border=true"
@@ -373,15 +380,16 @@ Notes:
 <br/>
 
 <!-- REACH ME -->
+<a id="-reach-me"></a>
 <div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
   <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
     <span style="color:#30363d">//</span>&nbsp;REACH ME
     <span style="display:inline-block;height:1px;background:#21262d;width:56%;vertical-align:middle;margin-left:10px;"></span>
   </div>
 
-  <table>
+  <table cellspacing="0" cellpadding="0" style="width:100%;border-collapse:separate;border-spacing:12px 12px;">
     <tr>
-      <td style="border:1px solid #30363d;border-radius:10px;padding:12px;background:rgba(255,255,255,.03);" valign="top">
+      <td style="width:50%;border:1px solid #30363d;border-radius:10px;padding:12px;background:rgba(255,255,255,.03);" valign="top">
         <div style="display:flex;gap:10px;align-items:center;">
           <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.05);border:1px solid #30363d;font-weight:800;color:#e6edf3;">𝕏</div>
           <div>
@@ -390,8 +398,7 @@ Notes:
           </div>
         </div>
       </td>
-      <td width="12"></td>
-      <td style="border:1px solid rgba(10,102,194,.30);border-radius:10px;padding:12px;background:rgba(10,102,194,.07);" valign="top">
+      <td style="width:50%;border:1px solid rgba(10,102,194,.30);border-radius:10px;padding:12px;background:rgba(10,102,194,.07);" valign="top">
         <div style="display:flex;gap:10px;align-items:center;">
           <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(10,102,194,.10);border:1px solid rgba(10,102,194,.30);font-size:18px;">💼</div>
           <div>
@@ -401,9 +408,8 @@ Notes:
         </div>
       </td>
     </tr>
-    <tr><td height="12"></td><td></td><td></td></tr>
     <tr>
-      <td style="border:1px solid rgba(31,111,235,.30);border-radius:10px;padding:12px;background:rgba(88,166,255,.07);" valign="top">
+      <td style="width:50%;border:1px solid rgba(31,111,235,.30);border-radius:10px;padding:12px;background:rgba(88,166,255,.07);" valign="top">
         <div style="display:flex;gap:10px;align-items:center;">
           <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(88,166,255,.07);border:1px solid rgba(31,111,235,.30);font-size:18px;">🐙</div>
           <div>
@@ -412,8 +418,7 @@ Notes:
           </div>
         </div>
       </td>
-      <td width="12"></td>
-      <td style="border:1px solid rgba(35,134,54,.30);border-radius:10px;padding:12px;background:rgba(35,134,54,.07);" valign="top">
+      <td style="width:50%;border:1px solid rgba(35,134,54,.30);border-radius:10px;padding:12px;background:rgba(35,134,54,.07);" valign="top">
         <div style="display:flex;gap:10px;align-items:center;">
           <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(35,134,54,.07);border:1px solid rgba(35,134,54,.30);font-size:18px;">🛡️</div>
           <div>
