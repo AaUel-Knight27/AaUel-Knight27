@@ -96,103 +96,102 @@
     <span style="display:inline-flex;align-items:center;gap:6px;"><span style="width:8px;height:8px;border-radius:50%;background:#d2a8ff;display:inline-block;"></span>ai / design</span>
   </div>
 
-  <!-- GitHub can't animate bars; these are static, styled with inline gradients -->
-  <div style="display:grid;grid-template-columns:1fr;gap:10px;">
+  <div style="display:grid;grid-template-columns:1fr;gap:8px;">
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Bash</span><span style="color:#ff7b72;font-weight:800;">90%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:#ff7b72;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:90%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Django</span><span style="color:#3fb950;font-weight:800;">90%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:90%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Kotlin</span><span style="color:#d2a8ff;font-weight:800;">85%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:85%;height:100%;background:#d2a8ff;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:85%;height:100%;background:#d2a8ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Spring Boot</span><span style="color:#3fb950;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Docker</span><span style="color:#e3b341;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#e3b341;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#e3b341;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C</span><span style="color:#ff7b72;font-weight:800;">80%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:#ff7b72;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:80%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>FastAPI</span><span style="color:#3fb950;font-weight:800;">78%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:78%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:78%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Python</span><span style="color:#3fb950;font-weight:800;">75%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:75%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:75%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Flask</span><span style="color:#3fb950;font-weight:800;">74%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:74%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:74%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Java</span><span style="color:#3fb950;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#3fb950;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#3fb950;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C++</span><span style="color:#ff7b72;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>C#</span><span style="color:#ff7b72;font-weight:800;">70%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:70%;height:100%;background:#ff7b72;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>React.js</span><span style="color:#58a6ff;font-weight:800;">65%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:65%;height:100%;background:#58a6ff;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:65%;height:100%;background:#58a6ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Next.js</span><span style="color:#58a6ff;font-weight:800;">60%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:#58a6ff;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:60%;height:100%;background:#58a6ff;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
-        <span>Go</span><span style="color:#ff7b72;font-weight:800;">60%</span>
+        <span>Go</span><span style="color:#f0883e;font-weight:800;">60%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:#ff7b72;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:60%;height:100%;background:#f0883e;"></div></div>
     </div>
     <div>
       <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
         <span>Blender</span><span style="color:#d2a8ff;font-weight:800;">55%</span>
       </div>
-      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:55%;height:100%;background:#d2a8ff;"></div></div>
+      <div style="background:#21262d;height:3px;overflow:hidden;"><div style="width:55%;height:100%;background:#d2a8ff;"></div></div>
     </div>
   </div>
 </div>
