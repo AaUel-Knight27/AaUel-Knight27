@@ -1,115 +1,439 @@
-```bash
-~/github-profile $ cat README.md
-```
+<!--
+GitHub Profile README (hybrid MD + HTML)
+Converted from: AaUel_Knight27_v3_final.html
 
-# @AaUel-Knight27
+Notes:
+- GitHub READMEs do not run JS and heavily restrict CSS, so this version uses inline HTML + images (shields/widgets).
+- Replace the photo URL if you want a custom photo instead of your GitHub avatar.
+-->
 
-▶ building things. solving problems. *one commit at a time.*
+<div align="center">
 
-`Student` • `Dev @ INSA` • `Freelancer` • `Open Source` • `AI Builder`
+<div style="max-width:820px;margin:0 auto;">
 
----
+<div style="border:1px solid #30363d;border-radius:14px;padding:18px 18px 16px;background:linear-gradient(135deg,#0d1117 60%,#0f1923);">
 
-## // WHO I AM
+<div style="display:flex;gap:16px;align-items:center;justify-content:flex-start;">
+  <!-- Option A (recommended): your GitHub avatar -->
+  <img src="https://github.com/AaUel-Knight27.png?size=140" width="72" height="72" style="border-radius:50%;border:2px solid #1f6feb;" alt="AaUel-Knight27 avatar" />
 
-```python
-class AaUel_Knight27:
-    role      = ["Student", "Developer @ INSA", "Freelancer"]
-    focus     = ["building things", "solving problems"]
+  <!-- Option B: upload photo.jpg into your profile repo and use the raw URL
+  <img src="https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg" width="72" height="72" style="border-radius:50%;border:2px solid #1f6feb;" alt="photo" />
+  -->
 
-    languages = ["Python","Java","Kotlin","Go","Bash","C","C++","C#","TypeScript","Ruby","SQL"]
-    frameworks= ["Django","Spring Boot","FastAPI","Flask","React","Next.js"]
-    systems   = ["Linux","Docker","Git","CI/CD","REST","GraphQL"]
-    ai        = ["LLMs","RAG","Agents","Prompt Engineering"]
-```
+  <div align="left">
+    <div style="font-size:11px;color:#3fb950;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+      ~/github-profile $&nbsp;<span style="color:#c9d1d9">cat README.md</span>
+    </div>
+    <div style="font-size:26px;font-weight:800;letter-spacing:-1px;color:#e6edf3;line-height:1.1;margin-top:4px;">
+      <span style="color:#58a6ff">@</span>AaUel-Knight27<span style="display:inline-block;width:8px;"></span>
+      <span style="display:inline-block;width:2px;height:24px;background:#58a6ff;vertical-align:middle;"></span>
+    </div>
+    <div style="font-size:12px;color:#8b949e;margin-top:6px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+      <span style="color:#3fb950">▶</span>&nbsp;building things. solving problems. <span style="color:#3fb950">one commit at a time.</span>
+    </div>
+  </div>
+</div>
 
----
+<div style="margin-top:12px;display:flex;gap:6px;flex-wrap:wrap;justify-content:center;">
+  <img alt="Student" src="https://img.shields.io/badge/Student-238636?style=flat&labelColor=161b22&color=238636" />
+  <img alt="Dev @ INSA" src="https://img.shields.io/badge/Dev%20%40%20INSA-1f6feb?style=flat&labelColor=161b22&color=1f6feb" />
+  <img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-9e6a03?style=flat&labelColor=161b22&color=9e6a03" />
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-6e40c9?style=flat&labelColor=161b22&color=6e40c9" />
+  <img alt="AI Builder" src="https://img.shields.io/badge/AI%20Builder-b91c1c?style=flat&labelColor=161b22&color=b91c1c" />
+</div>
 
-## // PROJECTS
+</div>
 
-| 🔐 ITAS LMS           | ⚔️ Knights-Agent  |
-| --------------------- | ----------------- |
-| Institution-grade LMS | AI agent platform |
-| Spring Boot • Java    | FastAPI • Python  |
-| PostgreSQL            | LLMs              |
+</div>
 
-| 🔨 SpringForge       | > _ coming soon |
-| -------------------- | --------------- |
-| Dev toolkit          | In the dark     |
-| Java • Python • Bash | ...             |
+</div>
 
----
+<br/>
 
-## // STACK FLUENCY
+<div align="center" style="max-width:820px;margin:0 auto;">
 
-```text
-Bash        ████████████████████ 90%
-Django      ████████████████████ 90%
-Kotlin      ██████████████████░ 85%
-SpringBoot  █████████████████░░ 80%
-Docker      █████████████████░░ 80%
-C / C++     ████████████████░░░ 75%
-FastAPI     ███████████████░░░░ 78%
-Python      ██████████████░░░░░ 75%
-React       ███████████░░░░░░░░ 65%
-Next.js     ██████████░░░░░░░░░ 60%
-```
+<!-- WHO I AM -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;WHO I AM
+    <span style="display:inline-block;height:1px;background:#21262d;width:45%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
 
----
+  <pre style="margin:0;background:#161b22;border:1px solid #21262d;border-radius:8px;padding:14px 16px;color:#c9d1d9;line-height:1.9;white-space:pre-wrap;overflow:auto;font-size:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;"><code><span style="color:#ff7b72">class</span> <span style="color:#ffa657">AaUel_Knight27</span>:
+  role       = ["Student", "Developer @ INSA", "Freelancer"]
+  focus      = ["building things", "solving problems"]
 
-## // TECH UNIVERSE
+  languages  = ["Python","Java","Kotlin","Go","Bash","C","C++","C#","TypeScript","Ruby","SQL"]
+  frameworks = ["Django","Spring Boot","FastAPI","Flask","React.js","Next.js","Hibernate","JPA"]
+  systems    = ["Linux","Docker","Git","CI/CD","REST","GraphQL","gRPC"]
+  ai         = ["LLMs","RAG","agent pipelines","prompt engineering","vector DBs"]
+  design     = ["Blender","system architecture","microservices","clean arch","MVC"]
+  databases  = ["PostgreSQL","MySQL","SQLite","MongoDB","Redis","FAISS"]
 
-### LANGUAGES
+  open_to    = ["collaborations","freelance work","interesting problems"]</code></pre>
+</div>
 
-🐍 Python • ☕ Java • 🎯 Kotlin • 🐹 Go • 💲 Bash
-⚡ C • ⚡ C++ • 🔷 C# • 📘 TypeScript • 🌐 JavaScript
-💎 Ruby • 🗄 SQL
+<br/>
 
----
+<!-- PROJECTS -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;PROJECTS
+    <span style="display:inline-block;height:1px;background:#21262d;width:55%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
 
-### FRAMEWORKS
+  <table>
+    <tr>
+      <td valign="top" style="border:1px solid rgba(35,134,54,.30);background:rgba(35,134,54,.07);border-radius:10px;padding:14px;">
+        <div style="font-size:20px;">🔐</div>
+        <div style="font-weight:800;color:#3fb950;margin-top:6px;">ITAS LMS</div>
+        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Institution-grade Learning Management System for ITAS users. Robust, scalable, built to last.</div>
+        <div style="margin-top:10px;">
+          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&labelColor=161b22&color=6db33f" />
+          <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat&labelColor=161b22&color=ed8b00" />
+          <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&labelColor=161b22&color=336791" />
+        </div>
+      </td>
+      <td width="12"></td>
+      <td valign="top" style="border:1px solid rgba(110,64,201,.30);background:rgba(110,64,201,.07);border-radius:10px;padding:14px;">
+        <div style="font-size:20px;">⚔️</div>
+        <div style="font-weight:800;color:#d2a8ff;margin-top:6px;">Knights-Agent</div>
+        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">FastAPI AI agent platform — harness and orchestrate multiple AIs without limitation.</div>
+        <div style="margin-top:10px;">
+          <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&labelColor=161b22&color=009688" />
+          <img alt="Python" src="https://img.shields.io/badge/Python-f7d54a?style=flat&labelColor=161b22&color=f7d54a" />
+          <img alt="LLMs" src="https://img.shields.io/badge/LLMs-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
+        </div>
+      </td>
+    </tr>
+    <tr><td height="12"></td><td></td><td></td></tr>
+    <tr>
+      <td valign="top" style="border:1px solid rgba(31,111,235,.30);background:rgba(31,111,235,.07);border-radius:10px;padding:14px;">
+        <div style="font-size:20px;">🔨</div>
+        <div style="font-weight:800;color:#58a6ff;margin-top:6px;">SpringForge</div>
+        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Java + Python + Bash toolkit that supercharges Spring Boot development from day one.</div>
+        <div style="margin-top:10px;">
+          <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat&labelColor=161b22&color=ed8b00" />
+          <img alt="Python" src="https://img.shields.io/badge/Python-f7d54a?style=flat&labelColor=161b22&color=f7d54a" />
+          <img alt="Bash" src="https://img.shields.io/badge/Bash-4eaa25?style=flat&labelColor=161b22&color=4eaa25" />
+        </div>
+      </td>
+      <td width="12"></td>
+      <td valign="top" style="border:1px dashed #21262d;background:#0d1117;border-radius:10px;padding:14px;opacity:.75;">
+        <div style="font-size:14px;color:#484f58;">&gt; _</div>
+        <div style="font-weight:800;color:#484f58;margin-top:8px;">more coming...</div>
+        <div style="color:#8b949e;font-size:12px;line-height:1.6;margin-top:6px;">Crafting the next thing in the dark. Stay tuned.</div>
+        <div style="margin-top:10px;">
+          <img alt="in progress" src="https://img.shields.io/badge/in%20progress-30363d?style=flat&labelColor=161b22&color=30363d" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-🟢 Django • 🍃 Spring Boot • ⚡ FastAPI • 🌶 Flask
-⚛ React • ▲ Next.js
+<br/>
 
----
+<!-- STACK FLUENCY -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;STACK FLUENCY
+    <span style="display:inline-block;height:1px;background:#21262d;width:50%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
 
-### TOOLS
+  <div style="color:#8b949e;font-size:11px;margin-bottom:10px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="display:inline-flex;align-items:center;gap:6px;margin-right:12px;"><span style="width:8px;height:8px;border-radius:50%;background:#ff7b72;display:inline-block;"></span>systems</span>
+    <span style="display:inline-flex;align-items:center;gap:6px;margin-right:12px;"><span style="width:8px;height:8px;border-radius:50%;background:#3fb950;display:inline-block;"></span>backend</span>
+    <span style="display:inline-flex;align-items:center;gap:6px;margin-right:12px;"><span style="width:8px;height:8px;border-radius:50%;background:#58a6ff;display:inline-block;"></span>frontend</span>
+    <span style="display:inline-flex;align-items:center;gap:6px;margin-right:12px;"><span style="width:8px;height:8px;border-radius:50%;background:#e3b341;display:inline-block;"></span>tools</span>
+    <span style="display:inline-flex;align-items:center;gap:6px;"><span style="width:8px;height:8px;border-radius:50%;background:#d2a8ff;display:inline-block;"></span>ai / design</span>
+  </div>
 
-🐘 PostgreSQL • 🐬 MySQL • 🍃 MongoDB • ⚡ Redis
-🐳 Docker • 🐧 Linux • 🔀 Git • ⚙ CI/CD
-◉ GraphQL • 🔌 REST
+  <!-- GitHub can't animate bars; these are static, styled with inline gradients -->
+  <div style="display:grid;grid-template-columns:1fr;gap:10px;">
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Bash</span><span style="color:#ff7b72;font-weight:800;">90%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Django</span><span style="color:#3fb950;font-weight:800;">90%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:90%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Kotlin</span><span style="color:#d2a8ff;font-weight:800;">85%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:85%;height:100%;background:linear-gradient(90deg,#6e40c9,#d2a8ff);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Spring Boot</span><span style="color:#3fb950;font-weight:800;">80%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Docker</span><span style="color:#e3b341;font-weight:800;">80%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#9e6a03,#e3b341);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>C</span><span style="color:#ff7b72;font-weight:800;">80%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:80%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>FastAPI</span><span style="color:#3fb950;font-weight:800;">78%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:78%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Python</span><span style="color:#3fb950;font-weight:800;">75%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:75%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Flask</span><span style="color:#3fb950;font-weight:800;">74%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:74%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Java</span><span style="color:#3fb950;font-weight:800;">70%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#166534,#3fb950);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>C++</span><span style="color:#ff7b72;font-weight:800;">70%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>C#</span><span style="color:#ff7b72;font-weight:800;">70%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:70%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>React.js</span><span style="color:#58a6ff;font-weight:800;">65%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:65%;height:100%;background:linear-gradient(90deg,#1f6feb,#58a6ff);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Next.js</span><span style="color:#58a6ff;font-weight:800;">60%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:linear-gradient(90deg,#1f6feb,#58a6ff);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Go</span><span style="color:#ff7b72;font-weight:800;">60%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:60%;height:100%;background:linear-gradient(90deg,#b91c1c,#ff7b72);"></div></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:12px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+        <span>Blender</span><span style="color:#d2a8ff;font-weight:800;">55%</span>
+      </div>
+      <div style="background:#161b22;border:1px solid #21262d;border-radius:3px;height:8px;overflow:hidden;"><div style="width:55%;height:100%;background:linear-gradient(90deg,#6e40c9,#d2a8ff);"></div></div>
+    </div>
+  </div>
+</div>
 
----
+<br/>
 
-### AI / ARCHITECTURE
+<!-- TECH UNIVERSE -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;TECH UNIVERSE
+    <span style="display:inline-block;height:1px;background:#21262d;width:47%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
 
-🤖 LLMs • 📚 RAG • 🔗 Agents
-🏗 Microservices • 🧱 Clean Architecture
-📐 System Design • 📦 DDD
+  <div style="font-size:10px;color:#8b949e;letter-spacing:1px;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">LANGUAGES</div>
+  <div>
+    <img alt="Python" src="https://img.shields.io/badge/🐍%20Python-f7d54a?style=flat&labelColor=161b22&color=f7d54a" />
+    <img alt="Java" src="https://img.shields.io/badge/☕%20Java-ed8b00?style=flat&labelColor=161b22&color=ed8b00" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/🎯%20Kotlin-7f52ff?style=flat&labelColor=161b22&color=7f52ff" />
+    <img alt="Go" src="https://img.shields.io/badge/🐹%20Go-00add8?style=flat&labelColor=161b22&color=00add8" />
+    <img alt="Bash" src="https://img.shields.io/badge/💲%20Bash-4eaa25?style=flat&labelColor=161b22&color=4eaa25" />
+    <img alt="C" src="https://img.shields.io/badge/⚡%20C-a8b9cc?style=flat&labelColor=161b22&color=a8b9cc" />
+    <img alt="C++" src="https://img.shields.io/badge/⚡%20C%2B%2B-00599c?style=flat&labelColor=161b22&color=00599c" />
+    <img alt="C#" src="https://img.shields.io/badge/🔷%20C%23-239120?style=flat&labelColor=161b22&color=239120" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/📘%20TypeScript-3178c6?style=flat&labelColor=161b22&color=3178c6" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/🌐%20JavaScript-f7df1e?style=flat&labelColor=161b22&color=f7df1e" />
+    <img alt="Ruby" src="https://img.shields.io/badge/💎%20Ruby-cc342d?style=flat&labelColor=161b22&color=cc342d" />
+    <img alt="SQL" src="https://img.shields.io/badge/🗄%20SQL-336791?style=flat&labelColor=161b22&color=336791" />
+  </div>
 
----
+  <br/>
 
-## // ACTIVITY
+  <div style="font-size:10px;color:#8b949e;letter-spacing:1px;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">FRAMEWORKS</div>
+  <div>
+    <img alt="Django" src="https://img.shields.io/badge/🟢%20Django-092e20?style=flat&labelColor=161b22&color=3fb950" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/🍃%20Spring%20Boot-6db33f?style=flat&labelColor=161b22&color=6db33f" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/⚡%20FastAPI-009688?style=flat&labelColor=161b22&color=009688" />
+    <img alt="Flask" src="https://img.shields.io/badge/🌶%20Flask-30363d?style=flat&labelColor=161b22&color=30363d" />
+    <img alt="React" src="https://img.shields.io/badge/⚛%20React-61dafb?style=flat&labelColor=161b22&color=61dafb" />
+    <img alt="Next.js" src="https://img.shields.io/badge/▲%20Next.js-30363d?style=flat&labelColor=161b22&color=30363d" />
+    <img alt="Hibernate" src="https://img.shields.io/badge/🌿%20Hibernate-59666c?style=flat&labelColor=161b22&color=59666c" />
+    <img alt="JPA" src="https://img.shields.io/badge/📦%20JPA-30363d?style=flat&labelColor=161b22&color=30363d" />
+  </div>
 
-| Commits | Repos | Stars |
-| ------- | ----- | ----- |
-| 312     | 18    | 47    |
+  <br/>
 
----
+  <div style="font-size:10px;color:#8b949e;letter-spacing:1px;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">DATABASES & TOOLS</div>
+  <div>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/🐘%20PostgreSQL-336791?style=flat&labelColor=161b22&color=336791" />
+    <img alt="MySQL" src="https://img.shields.io/badge/🐬%20MySQL-4479a1?style=flat&labelColor=161b22&color=4479a1" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/🍃%20MongoDB-47a248?style=flat&labelColor=161b22&color=47a248" />
+    <img alt="Redis" src="https://img.shields.io/badge/⚡%20Redis-dc382d?style=flat&labelColor=161b22&color=dc382d" />
+    <img alt="SQLite" src="https://img.shields.io/badge/🗃%20SQLite-003b57?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="Docker" src="https://img.shields.io/badge/🐳%20Docker-2496ed?style=flat&labelColor=161b22&color=2496ed" />
+    <img alt="Linux" src="https://img.shields.io/badge/🐧%20Linux-fcc624?style=flat&labelColor=161b22&color=fcc624" />
+    <img alt="Git" src="https://img.shields.io/badge/🔀%20Git-f05032?style=flat&labelColor=161b22&color=f05032" />
+    <img alt="CI/CD" src="https://img.shields.io/badge/⚙%20CI%2FCD-2088ff?style=flat&labelColor=161b22&color=2088ff" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/◉%20GraphQL-e10098?style=flat&labelColor=161b22&color=e10098" />
+    <img alt="REST" src="https://img.shields.io/badge/🔌%20REST-ff6c37?style=flat&labelColor=161b22&color=ff6c37" />
+    <img alt="Blender" src="https://img.shields.io/badge/🎨%20Blender-f5792a?style=flat&labelColor=161b22&color=f5792a" />
+  </div>
 
-## // CONTACT
+  <br/>
 
-| Platform    | Link                                                  |
-| ----------- | ----------------------------------------------------- |
-| 𝕏 Twitter  | https://x.com/aethele87                               |
-| 💼 LinkedIn | https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/ |
-| 🐙 GitHub   | https://github.com/AaUel-Knight27                     |
-| 🛡 INSA     | Organization                                          |
+  <div style="font-size:10px;color:#8b949e;letter-spacing:1px;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">AI / ARCHITECTURE</div>
+  <div>
+    <img alt="LLMs" src="https://img.shields.io/badge/🤖%20LLMs-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
+    <img alt="RAG" src="https://img.shields.io/badge/📚%20RAG-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
+    <img alt="Agent Pipelines" src="https://img.shields.io/badge/🔗%20Agent%20Pipelines-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
+    <img alt="Prompt Engineering" src="https://img.shields.io/badge/💬%20Prompt%20Engineering-d2a8ff?style=flat&labelColor=161b22&color=d2a8ff" />
+    <img alt="Microservices" src="https://img.shields.io/badge/🏗%20Microservices-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="Clean Architecture" src="https://img.shields.io/badge/🧱%20Clean%20Architecture-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="System Design" src="https://img.shields.io/badge/📐%20System%20Design-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="MVC / MVT" src="https://img.shields.io/badge/🗂%20MVC%20%2F%20MVT-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="DDD" src="https://img.shields.io/badge/📦%20DDD-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="Event-Driven" src="https://img.shields.io/badge/⚡%20Event--Driven-58a6ff?style=flat&labelColor=161b22&color=58a6ff" />
+    <img alt="Cybersecurity" src="https://img.shields.io/badge/🔐%20Cybersecurity-3fb950?style=flat&labelColor=161b22&color=3fb950" />
+    <img alt="Network Security" src="https://img.shields.io/badge/🛡%20Network%20Security-3fb950?style=flat&labelColor=161b22&color=3fb950" />
+  </div>
+</div>
 
----
+<br/>
 
-```bash
-~/github-profile $ echo "thanks for stopping by"
-crafted in the dark · building & solving · @AaUel-Knight27
-```
+<!-- ACTIVITY -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;ACTIVITY
+    <span style="display:inline-block;height:1px;background:#21262d;width:58%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
+
+  <!-- Replaces JS counters with live widgets -->
+  <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-start;">
+    <img alt="Total stars" src="https://img.shields.io/github/stars/AaUel-Knight27?style=flat&label=stars&labelColor=161b22&color=6e40c9" />
+    <img alt="Followers" src="https://img.shields.io/github/followers/AaUel-Knight27?style=flat&label=followers&labelColor=161b22&color=1f6feb" />
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AaUel-Knight27&style=flat&color=238636&label=views" />
+  </div>
+
+  <br/>
+
+  <div style="font-size:10px;color:#484f58;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">CONTRIBUTION GRAPH</div>
+
+  <!-- Option 1 (static chart, very reliable) -->
+  <img
+    alt="Contribution chart"
+    src="https://ghchart.rshah.org/238636/AaUel-Knight27"
+    style="max-width:100%;border:1px solid #21262d;border-radius:10px;background:#0d1117;padding:10px;"
+  />
+
+  <br/><br/>
+
+  <!-- Option 2 (GitHub Readme Stats) -->
+  <div style="display:flex;gap:12px;flex-wrap:wrap;">
+    <img
+      alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=AaUel-Knight27&show_icons=true&theme=github_dark&hide_border=true"
+      style="max-width:100%;"
+    />
+    <img
+      alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaUel-Knight27&layout=compact&theme=github_dark&hide_border=true"
+      style="max-width:100%;"
+    />
+  </div>
+</div>
+
+<br/>
+
+<!-- REACH ME -->
+<div align="left" style="border:1px solid #21262d;border-radius:12px;padding:18px;background:#0d1117;">
+  <div style="font-size:10px;letter-spacing:2.5px;text-transform:uppercase;color:#58a6ff;font-weight:700;margin-bottom:12px;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+    <span style="color:#30363d">//</span>&nbsp;REACH ME
+    <span style="display:inline-block;height:1px;background:#21262d;width:56%;vertical-align:middle;margin-left:10px;"></span>
+  </div>
+
+  <table>
+    <tr>
+      <td style="border:1px solid #30363d;border-radius:10px;padding:12px;background:rgba(255,255,255,.03);" valign="top">
+        <div style="display:flex;gap:10px;align-items:center;">
+          <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,.05);border:1px solid #30363d;font-weight:800;color:#e6edf3;">𝕏</div>
+          <div>
+            <div style="font-size:10px;color:#8b949e;letter-spacing:.5px;">X / TWITTER</div>
+            <div style="font-size:13px;font-weight:700;color:#c9d1d9;"><a href="https://x.com/aethele87">@aethele87</a></div>
+          </div>
+        </div>
+      </td>
+      <td width="12"></td>
+      <td style="border:1px solid rgba(10,102,194,.30);border-radius:10px;padding:12px;background:rgba(10,102,194,.07);" valign="top">
+        <div style="display:flex;gap:10px;align-items:center;">
+          <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(10,102,194,.10);border:1px solid rgba(10,102,194,.30);font-size:18px;">💼</div>
+          <div>
+            <div style="font-size:10px;color:#8b949e;letter-spacing:.5px;">LINKEDIN</div>
+            <div style="font-size:13px;font-weight:700;color:#c9d1d9;"><a href="https://www.linkedin.com/in/abel-alemayehu-a0681a3a2/">Abel Alemayehu</a></div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr><td height="12"></td><td></td><td></td></tr>
+    <tr>
+      <td style="border:1px solid rgba(31,111,235,.30);border-radius:10px;padding:12px;background:rgba(88,166,255,.07);" valign="top">
+        <div style="display:flex;gap:10px;align-items:center;">
+          <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(88,166,255,.07);border:1px solid rgba(31,111,235,.30);font-size:18px;">🐙</div>
+          <div>
+            <div style="font-size:10px;color:#8b949e;letter-spacing:.5px;">GITHUB</div>
+            <div style="font-size:13px;font-weight:700;color:#c9d1d9;"><a href="https://github.com/AaUel-Knight27">AaUel-Knight27</a></div>
+          </div>
+        </div>
+      </td>
+      <td width="12"></td>
+      <td style="border:1px solid rgba(35,134,54,.30);border-radius:10px;padding:12px;background:rgba(35,134,54,.07);" valign="top">
+        <div style="display:flex;gap:10px;align-items:center;">
+          <div style="width:38px;height:38px;border-radius:8px;display:flex;align-items:center;justify-content:center;background:rgba(35,134,54,.07);border:1px solid rgba(35,134,54,.30);font-size:18px;">🛡️</div>
+          <div>
+            <div style="font-size:10px;color:#8b949e;letter-spacing:.5px;">ORGANIZATION</div>
+            <div style="font-size:13px;font-weight:700;color:#c9d1d9;">INSA Ethiopia</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center" style="color:#30363d;font-size:11px;letter-spacing:1px;line-height:1.9;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;">
+  <span style="color:#484f58;">~/github-profile $ echo "thanks for stopping by"</span><br/>
+  crafted in the dark · building &amp; solving · @AaUel-Knight27
+</div>
+
+</div>
+
+</div>
+
