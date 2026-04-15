@@ -1,0 +1,28 @@
+<svg width="820" height="210" viewBox="0 0 820 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="210" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="818" height="208" rx="15" stroke="#21262D"/>
+  <text x="28" y="30" font-size="10" letter-spacing="2.5" font-family="'JetBrains Mono', monospace" fill="#58A6FF">// REACH ME</text>
+  <line x1="118" y1="26" x2="792" y2="26" stroke="#21262D"/>
+  <g font-family="'JetBrains Mono', monospace">
+    <rect x="28" y="54" width="372" height="56" rx="10" fill="rgba(255,255,255,0.03)" stroke="#30363D"/>
+    <rect x="44" y="67" width="38" height="30" rx="8" fill="rgba(255,255,255,0.05)" stroke="#30363D"/>
+    <text x="63" y="87" text-anchor="middle" font-size="16" fill="#E6EDF3">X</text>
+    <text x="96" y="78" font-size="10" fill="#8B949E">X / TWITTER</text>
+    <text x="96" y="94" font-size="12" font-weight="600" fill="#C9D1D9">@aethele87</text>
+    <rect x="420" y="54" width="372" height="56" rx="10" fill="rgba(10,102,194,0.07)" stroke="rgba(10,102,194,0.3)"/>
+    <rect x="436" y="67" width="38" height="30" rx="8" fill="rgba(10,102,194,0.1)" stroke="rgba(10,102,194,0.3)"/>
+    <text x="455" y="87" text-anchor="middle" font-size="16" fill="#0A66C2">in</text>
+    <text x="488" y="78" font-size="10" fill="#8B949E">LINKEDIN</text>
+    <text x="488" y="94" font-size="12" font-weight="600" fill="#C9D1D9">Abel Alemayehu</text>
+    <rect x="28" y="126" width="372" height="56" rx="10" fill="rgba(88,166,255,0.07)" stroke="rgba(31,111,235,0.3)"/>
+    <rect x="44" y="139" width="38" height="30" rx="8" fill="rgba(88,166,255,0.07)" stroke="rgba(31,111,235,0.3)"/>
+    <text x="63" y="159" text-anchor="middle" font-size="12" fill="#58A6FF">GH</text>
+    <text x="96" y="150" font-size="10" fill="#8B949E">GITHUB</text>
+    <text x="96" y="166" font-size="12" font-weight="600" fill="#C9D1D9">AaUel-Knight27</text>
+    <rect x="420" y="126" width="372" height="56" rx="10" fill="rgba(35,134,54,0.07)" stroke="rgba(35,134,54,0.3)"/>
+    <rect x="436" y="139" width="38" height="30" rx="8" fill="rgba(35,134,54,0.07)" stroke="rgba(35,134,54,0.3)"/>
+    <text x="455" y="159" text-anchor="middle" font-size="12" fill="#3FB950">INSA</text>
+    <text x="488" y="150" font-size="10" fill="#8B949E">ORGANIZATION</text>
+    <text x="488" y="166" font-size="12" font-weight="600" fill="#C9D1D9">INSA Ethiopia</text>
+  </g>
+</svg>

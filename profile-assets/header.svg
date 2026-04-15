@@ -1,0 +1,33 @@
+<svg width="820" height="230" viewBox="0 0 820 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="230" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="818" height="228" rx="17" stroke="#30363D"/>
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(48,54,61,0.35)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="820" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0F1923"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="230" rx="18" fill="url(#bg)"/>
+  <rect width="820" height="230" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <circle cx="92" cy="82" r="36" fill="#161B22" stroke="#1F6FEB" stroke-width="3"/>
+  <text x="92" y="90" text-anchor="middle" font-size="24" font-family="'JetBrains Mono', monospace" font-weight="700" fill="#58A6FF">AK</text>
+  <text x="150" y="54" font-size="11" font-family="'JetBrains Mono', monospace" fill="#3FB950">~/github-profile $ <tspan fill="#C9D1D9">cat README.md</tspan></text>
+  <text x="150" y="90" font-size="30" font-family="'JetBrains Mono', monospace" font-weight="700" fill="#E6EDF3"><tspan fill="#58A6FF">@</tspan>AaUel-Knight27</text>
+  <rect x="462" y="66" width="3" height="28" fill="#58A6FF"/>
+  <text x="150" y="118" font-size="12" font-family="'JetBrains Mono', monospace" fill="#8B949E"><tspan fill="#3FB950">▶</tspan> building things. solving problems. <tspan fill="#3FB950">one commit at a time.</tspan></text>
+  <g font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500">
+    <rect x="150" y="145" width="64" height="24" rx="4" fill="rgba(35,134,54,0.14)" stroke="#238636"/>
+    <text x="182" y="160" text-anchor="middle" fill="#3FB950">Student</text>
+    <rect x="222" y="145" width="92" height="24" rx="4" fill="rgba(31,111,235,0.14)" stroke="#1F6FEB"/>
+    <text x="268" y="160" text-anchor="middle" fill="#58A6FF">Dev @ INSA</text>
+    <rect x="322" y="145" width="86" height="24" rx="4" fill="rgba(158,106,3,0.14)" stroke="#9E6A03"/>
+    <text x="365" y="160" text-anchor="middle" fill="#E3B341">Freelancer</text>
+    <rect x="416" y="145" width="92" height="24" rx="4" fill="rgba(110,64,201,0.14)" stroke="#6E40C9"/>
+    <text x="462" y="160" text-anchor="middle" fill="#D2A8FF">Open Source</text>
+    <rect x="516" y="145" width="76" height="24" rx="4" fill="rgba(185,28,28,0.14)" stroke="#B91C1C"/>
+    <text x="554" y="160" text-anchor="middle" fill="#FF7B72">AI Builder</text>
+  </g>
+</svg>
