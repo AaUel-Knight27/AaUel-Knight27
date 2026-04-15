@@ -1,6 +1,3 @@
-# AaUel-Knight27
-> `https://raw.githubusercontent.com/AaUel-Knight27/AaUel-Knight27/main/photo.jpg`
-
 <p align="center">
   <img src="./profile-assets/header.svg" alt="AaUel-Knight27 header" width="100%" />
 </p>
