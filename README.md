@@ -3,7 +3,8 @@
 </p>
 
 ## Who I Am
-
+- I build systems that solve real problems — from AI agents to scalable backend services.  
+- I enjoy turning complex ideas into working products.
 ```python
 class AaUel_Knight27:
     role       = ["Student", "Developer @ INSA", "Freelancer"]
@@ -102,10 +103,9 @@ class AaUel_Knight27:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaUel-Knight27&layout=compact&langs_count=10&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9&border_color=21262d"
-    alt="Top languages"
-    width="49%"
-  />
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaUel-Knight27&layout=compact&langs_count=8&theme=tokyonight"
+  width="49%"
+/>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AaUel-Knight27&bg_color=0d1117&color=8b949e&line=3fb950&point=58a6ff&area=true&area_color=0f1923&title_color=58a6ff&hide_border=true"
     alt="Contribution graph"
